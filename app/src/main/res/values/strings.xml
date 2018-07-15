@@ -1,0 +1,9 @@
+<resources>
+    <!-- Title for the application. -->
+    <string name="app_name">Tour Guide</string>
+    <!--names that show in the tab views  -->
+    <string name="tab1">Parks</string>
+    <string name="tab2">Restaurants</string>
+    <string name="tab3">Events</string>
+
+</resources>
