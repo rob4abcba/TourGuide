@@ -5,6 +5,7 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.ArrayAdapter;
+import android.widget.ImageView;
 import android.widget.TextView;
 
 import java.util.ArrayList;
@@ -34,8 +35,10 @@ public class DisplayAdaptor extends ArrayAdapter<ItemObject> {
 
         // Find the TextView in the list_item.xml layout with the ID version_name
         TextView nameTextView = listItemView.findViewById(R.id.item_name);
-
         nameTextView.setText(currentObject.getLocationName());
+
+        ImageView itemImage = listItemView.findViewById(R.id.item_img);
+        itemImage.setImageResource(currentObject.getImageID());
 
         return listItemView;
 
