@@ -1,5 +1,6 @@
 package example.android.tourguide;
 
+import android.graphics.Movie;
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
 import android.widget.TextView;
@@ -16,10 +17,11 @@ public class Details extends AppCompatActivity {
         // Set the content of the activity to use the activity_main.xml layout file
         setContentView(R.layout.details);
 
+        Bundle bundle = getIntent().getExtras();
+        String message = bundle.getString("key");
 
-       // String recived = getIntent().getExtras().getString("key");
+        TextView mTextView = findViewById(R.id.text_output);
+        mTextView.setText(message);
 
-       // TextView temp = findViewById(R.id.text_output);
-       // temp.setText(recived);
     }
 }

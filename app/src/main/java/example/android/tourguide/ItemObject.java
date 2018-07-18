@@ -6,10 +6,8 @@ package example.android.tourguide;
 
 public class ItemObject {
 
-    // mLocationNames to store the name of the place
-    private String mLocationName;
-    // mAddress to store the address
-    // mMaps to store the google maps gps link
+    // mPlanetNames to store the name of the planet/moon/object
+    private String mPlanetName;
     // mPhotoID to store the image id ref
     private int mImageID;
     // mComment to store the text info
@@ -17,10 +15,10 @@ public class ItemObject {
 
     public ItemObject (String name, int imageID) {
 
-        mLocationName = name;
+        mPlanetName = name;
         mImageID = imageID;
     }
 
-    public String getLocationName () {return mLocationName;}
+    public String getPlanetName () {return mPlanetName;}
     public int getImageID(){return mImageID;}
 }

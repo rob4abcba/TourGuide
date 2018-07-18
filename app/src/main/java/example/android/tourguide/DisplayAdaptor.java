@@ -35,7 +35,7 @@ public class DisplayAdaptor extends ArrayAdapter<ItemObject> {
 
         // Find the TextView in the list_item.xml layout with the ID version_name
         TextView nameTextView = listItemView.findViewById(R.id.item_name);
-        nameTextView.setText(currentObject.getLocationName());
+        nameTextView.setText(currentObject.getPlanetName());
 
         ImageView itemImage = listItemView.findViewById(R.id.item_img);
         itemImage.setImageResource(currentObject.getImageID());

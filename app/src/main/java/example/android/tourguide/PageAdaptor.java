@@ -21,13 +21,13 @@ public class PageAdaptor extends FragmentStatePagerAdapter {
 
         switch (position) {
             case 0:
-                ParksFragment tab1 = new ParksFragment();
+                PlanetsFragment tab1 = new PlanetsFragment();
                 return tab1;
             case 1:
-                RestaurantsFragment tab2 = new RestaurantsFragment();
+                MoonsFragment tab2 = new MoonsFragment();
                 return tab2;
             case 2:
-                EventsFragment tab3 = new EventsFragment();
+                OtherObjectsFragment tab3 = new OtherObjectsFragment();
                 return tab3;
             default:
                 return null;
