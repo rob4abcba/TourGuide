@@ -26,18 +26,90 @@ public class PlanetsFragment extends Fragment {
     @Override
     public View onCreateView(LayoutInflater inflater, ViewGroup container,
                              Bundle savedInstanceState) {
-        
+
         View rootView = inflater.inflate(R.layout.entry_list, container, false);
-        // build the arraylist for parks
+        // build the arraylist for planets
         final ArrayList<ItemObject> planet = new ArrayList<>();
-        planet.add(new ItemObject(getString(R.string.mercury),R.drawable.mercury));
-        planet.add(new ItemObject(getString(R.string.venus),R.drawable.venus));
-        planet.add(new ItemObject(getString(R.string.earth),R.drawable.earth));
-        planet.add(new ItemObject(getString(R.string.mars),R.drawable.mars));
-        planet.add(new ItemObject(getString(R.string.jupiter),R.drawable.jupiter));
-        planet.add(new ItemObject(getString(R.string.saturn),R.drawable.saturn));
-        planet.add(new ItemObject(getString(R.string.uranus),R.drawable.uranus));
-        planet.add(new ItemObject(getString(R.string.neptune),R.drawable.neptune));
+        planet.add(new ItemObject(
+                getString(R.string.mercury),
+                R.drawable.mercury,
+                R.string.mercury_text_box_1,
+                R.string.mercury_text_box_2,
+                R.string.mercury_text_box_3,
+                R.string.mercury_text_box_4,
+                R.string.mercury_text_box_5,
+                R.string.mercury_text_box_6,
+                R.string.mercury_text_box_7));
+        planet.add(new ItemObject(
+                getString(R.string.venus),
+                R.drawable.venus,
+                R.string.venus_text_box_1,
+                R.string.venus_text_box_2,
+                R.string.venus_text_box_3,
+                R.string.venus_text_box_4,
+                R.string.venus_text_box_5,
+                R.string.venus_text_box_6,
+                R.string.venus_text_box_7));
+        planet.add(new ItemObject(
+                getString(R.string.earth),
+                R.drawable.earth,
+                R.string.earth_text_box_1,
+                R.string.earth_text_box_2,
+                R.string.earth_text_box_3,
+                R.string.earth_text_box_4,
+                R.string.earth_text_box_5,
+                R.string.earth_text_box_6,
+                R.string.earth_text_box_7));
+        planet.add(new ItemObject(
+                getString(R.string.mars),
+                R.drawable.mars,
+                R.string.mars_text_box_1,
+                R.string.mars_text_box_2,
+                R.string.mars_text_box_3,
+                R.string.mars_text_box_4,
+                R.string.mars_text_box_5,
+                R.string.mars_text_box_6,
+                R.string.mars_text_box_7));
+        planet.add(new ItemObject(
+                getString(R.string.jupiter),
+                R.drawable.jupiter,
+                R.string.jupiter_text_box_1,
+                R.string.jupiter_text_box_2,
+                R.string.jupiter_text_box_3,
+                R.string.jupiter_text_box_4,
+                R.string.jupiter_text_box_5,
+                R.string.jupiter_text_box_6,
+                R.string.jupiter_text_box_7));
+        planet.add(new ItemObject(
+                getString(R.string.saturn),
+                R.drawable.saturn,
+                R.string.saturn_text_box_1,
+                R.string.saturn_text_box_2,
+                R.string.saturn_text_box_3,
+                R.string.saturn_text_box_4,
+                R.string.saturn_text_box_5,
+                R.string.saturn_text_box_6,
+                R.string.saturn_text_box_7));
+        planet.add(new ItemObject(
+                getString(R.string.uranus),
+                R.drawable.uranus,
+                R.string.uranus_text_box_1,
+                R.string.uranus_text_box_2,
+                R.string.uranus_text_box_3,
+                R.string.uranus_text_box_4,
+                R.string.uranus_text_box_5,
+                R.string.uranus_text_box_6,
+                R.string.uranus_text_box_7));
+        planet.add(new ItemObject(
+                getString(R.string.neptune),
+                R.drawable.neptune,
+                R.string.neptune_text_box_1,
+                R.string.neptune_text_box_2,
+                R.string.neptune_text_box_3,
+                R.string.neptune_text_box_4,
+                R.string.neptune_text_box_5,
+                R.string.neptune_text_box_6,
+                R.string.neptune_text_box_7));
 
         DisplayAdaptor displayAdapter = new DisplayAdaptor (getActivity(), planet);
         ListView listView = rootView.findViewById(R.id.list);
@@ -50,11 +122,26 @@ public class PlanetsFragment extends Fragment {
 
                 // find the item clicked on and get its name
                 ItemObject page = planet.get(position);
-                String item = page.getPlanetName();
+                String item1 = page.getPlanetName();
+                // collect the R.id's for the text views
+                int item2 = page.getPlanetText1();
+                int item3 = page.getPlanetText2();
+                int item4 = page.getPlanetText3();
+                int item5 = page.getPlanetText4();
+                int item6 = page.getPlanetText5();
+                int item7 = page.getPlanetText6();
+                int item8 = page.getPlanetText7();
 
-                // pass the item name to the new activity.
+                // pass the item name and text string id's to the new activity.
                 Intent details = new Intent(getActivity(), Details.class);
-                details.putExtra("key",item);
+                details.putExtra("key",item1);
+                details.putExtra("text2",item2);
+                details.putExtra("text3",item3);
+                details.putExtra("text4",item4);
+                details.putExtra("text5",item5);
+                details.putExtra("text6",item6);
+                details.putExtra("text7",item7);
+                details.putExtra("text8",item8);
                 startActivity(details);
             }
         });
