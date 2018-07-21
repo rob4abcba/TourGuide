@@ -4,6 +4,7 @@ import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
+import android.widget.ImageView;
 import android.widget.TextView;
 
 /**
@@ -28,6 +29,11 @@ public class Details extends AppCompatActivity {
         int message5 = bundle.getInt("text6");
         int message6 = bundle.getInt("text7");
         int message7 = bundle.getInt("text8");
+        int message8 = bundle.getInt("text9");
+
+        // set image and text views
+        ImageView mImageView = findViewById(R.id.image_output);
+        mImageView.setImageResource(message8);
 
         TextView mTextView = findViewById(R.id.name_output);
         mTextView.setText(message);

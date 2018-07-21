@@ -177,42 +177,1271 @@
     </string>
     <!-- jupiter information -->
     <string name="jupiter">Jupiter</string>
-    <string name="jupiter_text_box_1">Jupiter</string>
+    <string name="jupiter_text_box_1">
+        Jupiter is the fifth planet from our Sun and is, by far, the largest planet in the solar
+        system – more than twice as massive as all the other planets combined. Jupiters stripes and
+        swirls are actually cold, windy clouds of ammonia and water, floating in an atmosphere of
+        hydrogen and helium. Jupiter’s iconic Great Red Spot is a giant storm bigger than Earth
+        that has raged for hundreds of years. Jupiter is surrounded by 79 known moons. Scientists
+        are most interested in the Galilean satellites – the four largest moons discovered by
+        Galileo Galilei in 1610: Io, Europa, Ganymede and Callisto. Jupiter also has several rings,
+        but unlike the famous rings of Saturn, Jupiter’s rings are very faint and made of dust, not
+        ice. Jupiter is named for the king of the ancient Roman gods.?
+    </string>
     <string name="jupiter_text_box_2">Size and Distance</string>
-    <string name="jupiter_text_box_3">Jupiter</string>
+    <string name="jupiter_text_box_3">
+        With a radius of 43,440.7 miles (69,911 kilometers), Jupiter is 11 times wider than Earth.
+        If Earth were the size of a nickel, Jupiter would be about as big as a basketball. From an
+        average distance of 484 million miles (778 million kilometers), Jupiter is 5.2 astronomical
+        units away from the Sun. One astronomical unit (abbreviated as AU), is the distance from
+        the Sun to Earth. From this distance, it takes Sunlight 43 minutes to travel from the Sun
+        to Jupiter.
+    </string>
     <string name="jupiter_text_box_4">Orbit and Rotation</string>
-    <string name="jupiter_text_box_5">Jupiter</string>
+    <string name="jupiter_text_box_5">
+        Jupiter has the shortest day in the solar system. One day on Jupiter takes only about 10
+        hours (the time it takes for Jupiter to rotate or spin around once), and Jupiter makes a
+        complete orbit around the Sun (a year in Jovian time) in about 12 Earth years
+        (4,333 Earth days). Its equator is tilted with respect to its orbital path around the Sun
+        by just 3 degrees. This means Jupiter spins nearly upright and does not have seasons as
+        extreme as other planets do.
+    </string>
     <string name="jupiter_text_box_6">Formation</string>
-    <string name="jupiter_text_box_7">Jupiter</string>
+    <string name="jupiter_text_box_7">
+        Jupiter took shape when the rest of the solar system formed about 4.5 billion years ago,
+        when gravity pulled swirling gas and dust in to become this gas giant. Jupiter took most of
+        the mass left over after the formation of the Sun, ending up with more than twice the
+        combined material of the other bodies in the solar system. In fact, Jupiter has the same
+        ingredients as a star, but it did not grow massive enough to ignite. About 4 billion years
+        ago, Jupiter settled into its current position in the outer solar system, where it is the
+        fifth planet from the Sun.
+    </string>
     <!-- saturn information -->
     <string name="saturn">Saturn</string>
-    <string name="saturn_text_box_1">Saturn</string>
+    <string name="saturn_text_box_1">
+        Saturn is the sixth planet from the Sun and the second largest planet in our solar system.
+        Adorned with a dazzling system of icy rings, Saturn is unique among the planets. It is not
+        the only planet to have rings, but none are as spectacular or as complex as Saturn. Like
+        fellow gas giant Jupiter, Saturn is a massive ball made mostly of hydrogen and helium.
+        Surrounded by more than 60 known moons, Saturn is home to some of the most fascinating
+        landscapes in our solar system. From the jets of water that spray from Enceladus to the
+        methane lakes on smoggy Titan, the Saturn system is a rich source of scientific discovery
+        and still holds many mysteries. The farthest planet from Earth discovered by the unaided
+        human eye, Saturn has been known since ancient times. The planet is named for the Roman god
+        of agriculture and wealth, who was also the father of Jupiter.
+    </string>
     <string name="saturn_text_box_2">Size and Distance</string>
-    <string name="saturn_text_box_3">Saturn</string>
+    <string name="saturn_text_box_3">
+        With a radius of 36,183.7 miles (58,232 kilometers), Saturn is 9 times wider than Earth.
+        If Earth were the size of a nickel, Saturn would be about as big as a volleyball. From an
+        average distance of 886 million miles (1.4 billion kilometers), Saturn is 9.5 astronomical
+        units away from the Sun. One astronomical unit (abbreviated as AU), is the distance from
+        the Sun to Earth. From this distance, it takes sunlight 80 minutes to travel from the Sun
+        to Saturn.
+    </string>
     <string name="saturn_text_box_4">Orbit and Rotation</string>
-    <string name="saturn_text_box_5">Saturn</string>
+    <string name="saturn_text_box_5">
+        Saturn has the second-shortest day in the solar system. One day on Saturn takes only 10.7
+        hours (the time it takes for Saturn to rotate or spin around once), and Saturn makes a
+        complete orbit around the Sun (a year in Saturnian time) in about 29.4 Earth years (10,756
+        Earth days). Its axis is tilted by 26.73 degrees with respect to its orbit around the Sun,
+        which is similar to Earth's 23.5-degree tilt. This means that, like Earth, Saturn
+        experiences seasons.
+    </string>
     <string name="saturn_text_box_6">Formation</string>
-    <string name="saturn_text_box_7">Saturn</string>
+    <string name="saturn_text_box_7">
+        Saturn took shape when the rest of the solar system formed about 4.5 billion years ago,
+        when gravity pulled swirling gas and dust in to become this gas giant. About 4 billion
+        years ago, Saturn settled into its current position in the outer solar system, where it
+        is the sixth planet from the Sun. Like Jupiter, Saturn is mostly made of hydrogen and
+        helium, the same two main components that make up the Sun.
+    </string>
     <!-- uranus information -->
     <string name="uranus">Uranus</string>
-    <string name="uranus_text_box_1">Uranus</string>
+    <string name="uranus_text_box_1">
+        The seventh planet from the Sun with the third largest diameter in our solar system, Uranus
+        is very cold and windy. The ice giant is surrounded by 13 faint rings and 27 small moons as
+        it rotates at a nearly 90-degree angle from the plane of its orbit. This unique tilt makes
+        Uranus appear to spin on its side, orbiting the Sun like a rolling ball. The first planet
+        found with the aid of a telescope, Uranus was discovered in 1781 by astronomer William
+        Herschel, although he originally thought it was either a comet or a star. It was two years
+        later that the object was universally accepted as a new planet, in part because of
+        observations by astronomer Johann Elert Bode. William Herschel tried unsuccessfully to name
+        his discovery Georgium Sidus after King George III. Instead the planet was named for Uranus,
+        the Greek god of the sky, as suggested by Johann Bode.
+    </string>
     <string name="uranus_text_box_2">Size and Distance</string>
-    <string name="uranus_text_box_3">Uranus</string>
+    <string name="uranus_text_box_3">
+        With a radius of 15,759.2 miles (25,362 kilometers), Uranus is 4 times wider than Earth. If
+        Earth was the size of a nickel, Uranus would be about as big as a softball. From an average
+        distance of 1.8 billion miles (2.9 billion kilometers), Uranus is 19.8 astronomical units
+        away from the Sun. One astronomical unit (abbreviated as AU), is the distance from the Sun
+        to Earth. From this distance, it takes sunlight 2 hours and 40 minutes to travel from the
+        Sun to Uranus.
+    </string>
     <string name="uranus_text_box_4">Orbit and Rotation</string>
-    <string name="uranus_text_box_5">Uranus</string>
+    <string name="uranus_text_box_5">
+        One day on Uranus takes about 17 hours (the time it takes for Uranus to rotate or spin
+        once). And Uranus makes a complete orbit around the Sun (a year in Uranian time) in about
+        84 Earth years (30,687 Earth days). Uranus is the only planet whose equator is nearly at a
+        right angle to its orbit, with a tilt of 97.77 degrees—possibly the result of a collision
+        with an Earth-sized object long ago. This unique tilt causes the most extreme seasons in the
+        solar system. For nearly a quarter of each Uranian year, the Sun shines directly over each
+        pole, plunging the other half of the planet into a 21-year-long, dark winter. Uranus is also
+        one of just two planets that rotate in the opposite direction than most of the planets
+        (Venus is the other one), from east to west.
+    </string>
     <string name="uranus_text_box_6">Formation</string>
-    <string name="uranus_text_box_7">Uranus</string>
+    <string name="uranus_text_box_7">
+        Uranus took shape when the rest of the solar system formed about 4.5 billion years ago,
+        when gravity pulled swirling gas and dust in to become this ice giant. Like its neighbor
+        Neptune, Uranus likely formed closer to the Sun and moved to the outer solar system about
+        4 billion years ago, where it is the seventh planet from the Sun.
+    </string>
     <!-- neptune information -->
     <string name="neptune">Neptune</string>
-    <string name="neptune_text_box_1">Neptune</string>
+    <string name="neptune_text_box_1">
+        Dark, cold and whipped by supersonic winds, ice giant Neptune is the eighth and most distant
+        planet in our solar system. More than 30 times as far from the Sun as Earth, Neptune is the
+        only planet in our solar system not visible to the naked eye. In 2011 Neptune completed its
+        first 165-year orbit since its discovery in 1846. Neptune is so far from the Sun that high
+        noon on the big blue planet would seem like dim twilight to us. The warm light we see here
+        on our home planet is roughly 900 times as bright as sunlight on Neptune. The ice giant
+        Neptune was the first planet located through mathematical calculations. Using predictions
+        made by Urbain Le Verrier, Johann Galle discovered the planet in 1846. The planet is named
+        after the Roman god of the sea, as suggested by Le Verrier
+    </string>
     <string name="neptune_text_box_2">Size and Distance</string>
-    <string name="neptune_text_box_3">Neptune</string>
+    <string name="neptune_text_box_3">
+        With a radius of 15,299.4 miles (24,622 kilometers), Neptune is about four times wider than
+        Earth. If Earth were the size of a nickel, Neptune would be about as big as a baseball.
+        From an average distance of 2.8 billion miles (4.5 billion kilometers), Neptune is 30
+        astronomical units away from the Sun. One astronomical unit (abbreviated as AU), is the
+        distance from the Sun to Earth. From this distance, it takes sunlight 4 hours to travel
+        from the Sun to Neptune
+    </string>
     <string name="neptune_text_box_4">Orbit and Rotation</string>
-    <string name="neptune_text_box_5">Neptune</string>
+    <string name="neptune_text_box_5">
+        One day on Neptune takes about 16 hours (the time it takes for Neptune to rotate or spin
+        once). And Neptune makes a complete orbit around the Sun (a year in Neptunian time) in
+        about 165 Earth years (60,190 Earth days). Sometimes Neptune is even farther from the Sun
+        than dwarf planet Pluto. Plutos highly eccentric, oval-shaped orbit brings it inside
+        Neptunes orbit for a 20-year period every 248 Earth years. This switch, in which Pluto is
+        closer to the Sun than Neptune, happened most recently from 1979 to 1999. Pluto can never
+        crash into Neptune, though, because for every three laps Neptune takes around the Sun,
+        Pluto makes two. This repeating pattern prevents close approaches of the two bodies.
+        Neptune’s axis of rotation is tilted 28 degrees with respect to the plane of its orbit
+        around the Sun, which is similar to the axial tilts of Mars and Earth. This means that
+        Neptune experiences seasons just like we do on Earth; however, since its year is so long,
+        each of the four seasons lasts for over 40 years
+    </string>
     <string name="neptune_text_box_6">Formation</string>
-    <string name="neptune_text_box_7">Neptune</string>
+    <string name="neptune_text_box_7">
+        Neptune took shape when the rest of the solar system formed about 4.5 billion years ago,
+        when gravity pulled swirling gas and dust in to become this ice giant. Like its neighbor
+        Uranus, Neptune likely formed closer to the Sun and moved to the outer solar system about
+        4 billion years ago.
+    </string>
 
-    <!-- TODO: Remove or change this placeholder text -->
-    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <!-- end of planets -->
+    <!-- start of moons -->
 
+    <!-- earths moon information -->
+    <string name="earth_moon">Moon</string>
+    <string name="earth_moon_text_box_1">
+        Earths Moon is the only place beyond Earth where humans have set foot, so far. The
+        brightest and largest object in our night sky, the Moon makes Earth a more livable planet
+        by moderating our home planets wobble on its axis, leading to a relatively stable climate.
+        It also causes tides, creating a rhythm that has guided humans for thousands of years. The
+        Moon was likely formed after a Mars-sized body collided with Earth several billion years
+        ago. Earth's only natural satellite is simply called "the Moon" because people didn't know
+        other moons existed until Galileo Galilei discovered four moons orbiting Jupiter in 1610.
+        In Latin, the Moon was called Luna, which is the main adjective for all things
+        Moon-related: lunar
+    </string>
+    <string name="earth_moon_text_box_2">Size and Distance</string>
+    <string name="earth_moon_text_box_3">
+        With a radius of 1,079.6 miles (1,737.5 kilometers), the moon is less than a third the
+        width of Earth. If Earth were the size of a nickel, the moon would be about as big as a
+        coffee bean. The moon is farther away from Earth than most people realize. The moon is an
+        average of 238,855 miles (384,400 kilometers) away. That means 30 Earth-sized planets could
+        fit in between Earth and the moon. The moon is slowly moving away from Earth, getting about
+        an inch farther away each year.
+    </string>
+    <string name="earth_moon_text_box_4">Orbit and Rotation</string>
+    <string name="earth_moon_text_box_5">
+        The moon is rotating at the same rate that it revolves around Earth (called synchronous
+        rotation), so the same hemisphere faces Earth all the time. Some people call the far side
+        and the hemisphere we never see from Earth the "dark side," but that is
+        misleading. As the moon orbits Earth, different parts are in sunlight or darkness at
+        different times. The changing illumination is why, from our perspective, the moon goes
+        through phases. During a "full moon," the hemisphere of the moon we can see from Earth
+        is fully illuminated by the sun. And a "new moon" occurs when the far side of the moon has
+        full sunlight, and the side facing us is having its night. The moon makes a complete orbit
+        around Earth in 27 Earth days and rotates or spins at that same rate, or in that same amount
+        of time. Because Earth is moving as well  and rotating on its axis as it orbits the
+        sun and from our perspective, the moon appears to orbit us every 29 days.
+    </string>
+    <string name="earth_moon_text_box_6">Formation</string>
+    <string name="earth_moon_text_box_7">
+        The leading theory of the moons origin is that a Mars-sized body collided with Earth about
+        4.5 billion years ago. The resulting debris from both Earth and the impactor accumulated to
+        form our natural satellite 239,000 miles (384,000 kilometers) away. The newly formed moon
+        was in a molten state, but within about 100 million years, most of the global "magma ocean"
+        had crystallized, with less-dense rocks floating upward and eventually forming the lunar crust.
+    </string>
+
+    <!-- mars moon deimos information -->
+    <string name="mars_moon_deimos">Deimos</string>
+    <string name="mars_moon_deimos_text_box_1">
+        Asaph Hall was about to give up his frustrating search for a Martian moon one August night
+        in 1877, but his wife Angelina urged him on. He discovered Deimos the next night, and
+        Phobos six nights after that.
+        Ninety-four years later, NASAs Mariner 9 spacecraft got a much better look at the two
+        moons from its orbit around Mars. The dominant feature on Phobos, it found, was a crater
+        six miles (10 kilometers) wide—nearly half the width of the moon itself. It was given
+        Angelina's maiden name: Stickney.
+    </string>
+    <string name="mars_moon_deimos_text_box_2">Over View</string>
+    <string name="mars_moon_deimos_text_box_3">
+        Mars moons are among the smallest in the solar system. Phobos is a bit larger than Deimos,
+        and orbits only 3,700 miles (6,000 kilometers) above the Martian surface. No known moon
+        orbits closer to its planet. It whips around Mars three times a day, while the more distant
+        Deimos takes 30 hours for each orbit. Phobos is gradually spiraling inward, drawing about
+        six feet (1.8 meters) closer to the planet each century. Within 50 million years, it will
+        either crash into Mars or break up and form a ring around the planet.
+        To someone standing on the Mars-facing side of Phobos, Mars would take up a large part of
+        the sky. And people may one day do just that. Scientists have discussed the possibility of
+        using one of the Martian moons as a base from which astronauts could observe the Red Planet
+        and launch robots to its surface, while shielded by miles of rock from cosmic rays and solar
+        radiation for nearly two-thirds of every orbit.
+        Like Earth's Moon, Phobos and Deimos always present the same face to their planet. Both are
+        lumpy, heavily-cratered and covered in dust and loose rocks. They are among the darker
+        objects in the solar system. The moons appear to be made of carbon-rich rock mixed with ice
+        and may be captured asteroids.
+        Phobos has only 1/1,000th as much gravitational pull as Earth. A 150-pound (68 kilogram)
+        person would weigh two ounces (68 grams) there. Yet NASA's Mars Global Surveyor has shown
+        evidence of landslides, and of boulders and dust that fell back down to the surface after
+        being blasted off the moon by meteorites.
+    </string>
+    <string name="mars_moon_deimos_text_box_4">How They got there name</string>
+    <string name="mars_moon_deimos_text_box_5">
+        Hall named the moons for the mythological sons of Ares, the Greek counterpart of the Roman
+        god, Mars. Phobos means fear or panic (think "phobia"), and Deimos means flight (as in
+        running away after an overwhelming defeat). Fitting names for the sons of a war god
+    </string>
+    <string name="mars_moon_deimos_text_box_6">none</string>
+    <string name="mars_moon_deimos_text_box_7">none</string>
+
+    <!-- mars moon phobos information -->
+    <string name="mars_moon_phobos">phobos</string>
+    <string name="mars_moon_phobos_text_box_1">
+        Asaph Hall was about to give up his frustrating search for a Martian moon one August night
+        in 1877, but his wife Angelina urged him on. He discovered Deimos the next night, and
+        Phobos six nights after that.
+        Ninety-four years later, NASAs Mariner 9 spacecraft got a much better look at the two
+        moons from its orbit around Mars. The dominant feature on Phobos, it found, was a crater
+        six miles (10 kilometers) wide—nearly half the width of the moon itself. It was given
+        Angelina's maiden name: Stickney.
+    </string>
+    <string name="mars_moon_phobos_text_box_2">Over View</string>
+    <string name="mars_moon_phobos_text_box_3">
+        Mars moons are among the smallest in the solar system. Phobos is a bit larger than Deimos,
+        and orbits only 3,700 miles (6,000 kilometers) above the Martian surface. No known moon
+        orbits closer to its planet. It whips around Mars three times a day, while the more distant
+        Deimos takes 30 hours for each orbit. Phobos is gradually spiraling inward, drawing about
+        six feet (1.8 meters) closer to the planet each century. Within 50 million years, it will
+        either crash into Mars or break up and form a ring around the planet.
+        To someone standing on the Mars-facing side of Phobos, Mars would take up a large part of
+        the sky. And people may one day do just that. Scientists have discussed the possibility of
+        using one of the Martian moons as a base from which astronauts could observe the Red Planet
+        and launch robots to its surface, while shielded by miles of rock from cosmic rays and solar
+        radiation for nearly two-thirds of every orbit.
+        Like Earth's Moon, Phobos and Deimos always present the same face to their planet. Both are
+        lumpy, heavily-cratered and covered in dust and loose rocks. They are among the darker
+        objects in the solar system. The moons appear to be made of carbon-rich rock mixed with ice
+        and may be captured asteroids.
+        Phobos has only 1/1,000th as much gravitational pull as Earth. A 150-pound (68 kilogram)
+        person would weigh two ounces (68 grams) there. Yet NASA's Mars Global Surveyor has shown
+        evidence of landslides, and of boulders and dust that fell back down to the surface after
+        being blasted off the moon by meteorites.
+    </string>
+    <string name="mars_moon_phobos_text_box_4">How They got there name</string>
+    <string name="mars_moon_phobos_text_box_5">
+        Hall named the moons for the mythological sons of Ares, the Greek counterpart of the Roman
+        god, Mars. Phobos means fear or panic (think "phobia"), and Deimos means flight (as in
+        running away after an overwhelming defeat). Fitting names for the sons of a war god
+    </string>
+    <string name="mars_moon_phobos_text_box_6">none</string>
+    <string name="mars_moon_phobos_text_box_7">none</string>
+
+    <!-- jupiter moon io information -->
+    <string name="jupiter_moon_io">Io</string>
+    <string name="jupiter_moon_io_text_box_1">
+       The planet Jupiters four largest moons are called the Galilean satellites after Italian
+        astronomer Galileo Galilei, who first observed them in 1610. The German astronomer Simon
+        Marius claimed to have seen the moons around the same time, but he did not publish his
+        observations and so Galileo is given the credit for their discovery. These large moons,
+        named Io, Europa, Ganymede, and Callisto, are each distinctive worlds.
+    </string>
+    <string name="jupiter_moon_io_text_box_2">Information</string>
+    <string name="jupiter_moon_io_text_box_3">
+       Io is the most volcanically active body in the solar system. Ios surface is covered by
+        sulfur in different colorful forms. As Io travels in its slightly elliptical orbit,
+        Jupiters immense gravity causes "tides" in the solid surface that rise 300 feet (100 meters)
+        high on Io, generating enough heat for volcanic activity and to drive off any water. Io's
+        volcanoes are driven by hot silicate magma.
+    </string>
+    <string name="jupiter_moon_io_text_box_4">Structure</string>
+    <string name="jupiter_moon_io_text_box_5">
+        The interiors of Io, Europa and Ganymede have a layered structure (as does Earth). Io has a
+        core, and a mantle of at least partially molten rock, topped by a crust of solid rock
+        coated with sulfur compounds. Europa and Ganymede both have a core; a rock envelope around
+        the core; a thick, soft ice layer; and a thin crust of impure water ice. In the case of
+        Europa, a global subsurface water layer probably lies just below the icy crust. Layering at
+        Callisto is less well defined and appears to be mainly a mixture of ice and rock.
+    </string>
+    <string name="jupiter_moon_io_text_box_6">Moon Interactions</string>
+    <string name="jupiter_moon_io_text_box_7">
+        Three of the moons influence each other in an interesting way. Io is in a tug-of-war with
+        Ganymede and Europa, and Europas orbital period (time to go around Jupiter once) is twice
+        Ios period, and Ganymedes period is twice that of Europa. In other words, every time
+        Ganymede goes around Jupiter once, Europa makes two orbits and Io makes four orbits. The
+        moons all keep the same face towards Jupiter as they orbit, meaning that each moon turns
+        once on its axis for every orbit around Jupiter.
+    </string>
+
+    <!-- jupiter moon Europa information -->
+    <string name="jupiter_moon_Europa">Europa</string>
+    <string name="jupiter_moon_Europa_text_box_1">
+       The planet Jupiters four largest moons are called the Galilean satellites after Italian
+        astronomer Galileo Galilei, who first observed them in 1610. The German astronomer Simon
+        Marius claimed to have seen the moons around the same time, but he did not publish his
+        observations and so Galileo is given the credit for their discovery. These large moons,
+        named Io, Europa, Ganymede, and Callisto, are each distinctive worlds.
+    </string>
+    <string name="jupiter_moon_Europa_text_box_2">Information</string>
+    <string name="jupiter_moon_Europa_text_box_3">
+       Europas surface is mostly water ice, and there is evidence that it may be covering an ocean
+        of water or slushy ice beneath. Europa is thought to have twice as much water as does Earth.
+        This moon intrigues astrobiologists because of its potential for having a "habitable zone."
+        Life forms have been found thriving near subterranean volcanoes on Earth and in other extreme
+        locations that may be analogues to what may exist on Europa.
+    </string>
+    <string name="jupiter_moon_Europa_text_box_4">Structure</string>
+    <string name="jupiter_moon_Europa_text_box_5">
+        The interiors of Io, Europa and Ganymede have a layered structure (as does Earth). Io has a
+        core, and a mantle of at least partially molten rock, topped by a crust of solid rock coated
+        with sulfur compounds. Europa and Ganymede both have a core; a rock envelope around the core;
+        a thick, soft ice layer; and a thin crust of impure water ice. In the case of Europa, a
+        global subsurface water layer probably lies just below the icy crust. Layering at Callisto
+        is less well defined and appears to be mainly a mixture of ice and rock.
+    </string>
+    <string name="jupiter_moon_Europa_text_box_6">Moon Interactions</string>
+    <string name="jupiter_moon_Europa_text_box_7">
+        Three of the moons influence each other in an interesting way. Io is in a tug-of-war with
+        Ganymede and Europa, and Europas orbital period (time to go around Jupiter once) is twice
+        Ios period, and Ganymedes period is twice that of Europa. In other words, every time
+        Ganymede goes around Jupiter once, Europa makes two orbits and Io makes four orbits. The
+        moons all keep the same face towards Jupiter as they orbit, meaning that each moon turns
+        once on its axis for every orbit around Jupiter.
+    </string>
+
+    <!-- jupiter moon Ganymede information -->
+    <string name="jupiter_moon_Ganymede">Ganymede</string>
+    <string name="jupiter_moon_Ganymede_text_box_1">
+       The planet Jupiters four largest moons are called the Galilean satellites after Italian
+        astronomer Galileo Galilei, who first observed them in 1610. The German astronomer Simon
+        Marius claimed to have seen the moons around the same time, but he did not publish his
+        observations and so Galileo is given the credit for their discovery. These large moons,
+        named Io, Europa, Ganymede, and Callisto, are each distinctive worlds.
+    </string>
+    <string name="jupiter_moon_Ganymede_text_box_2">Information</string>
+    <string name="jupiter_moon_Ganymede_text_box_3">
+       Ganymede is the largest moon in the solar system (larger than the planet Mercury), and is
+        the only moon known to have its own internally generated magnetic field.
+    </string>
+    <string name="jupiter_moon_Ganymede_text_box_4">Structure</string>
+    <string name="jupiter_moon_Ganymede_text_box_5">
+        The interiors of Io, Europa and Ganymede have a layered structure (as does Earth). Io has a
+        core, and a mantle of at least partially molten rock, topped by a crust of solid rock coated
+        with sulfur compounds. Europa and Ganymede both have a core; a rock envelope around the
+        core; a thick, soft ice layer; and a thin crust of impure water ice. In the case of Europa,
+        a global subsurface water layer probably lies just below the icy crust. Layering at Callisto
+        is less well defined and appears to be mainly a mixture of ice and rock.
+    </string>
+    <string name="jupiter_moon_Ganymede_text_box_6">Moon Interactions</string>
+    <string name="jupiter_moon_Ganymede_text_box_7">
+        Three of the moons influence each other in an interesting way. Io is in a tug-of-war with
+        Ganymede and Europa, and Europas orbital period (time to go around Jupiter once) is twice
+        Ios period, and Ganymedes period is twice that of Europa. In other words, every time
+        Ganymede goes around Jupiter once, Europa makes two orbits and Io makes four orbits. The
+        moons all keep the same face towards Jupiter as they orbit, meaning that each moon turns
+        once on its axis for every orbit around Jupiter.
+    </string>
+
+    <!-- jupiter Callisto moon information -->
+    <string name="jupiter_moon_Callisto">Callisto</string>
+    <string name="jupiter_moon_Callisto_text_box_1">
+       The planet Jupiters four largest moons are called the Galilean satellites after Italian
+        astronomer Galileo Galilei, who first observed them in 1610. The German astronomer Simon
+        Marius claimed to have seen the moons around the same time, but he did not publish his
+        observations and so Galileo is given the credit for their discovery. These large moons,
+        named Io, Europa, Ganymede, and Callisto, are each distinctive worlds.
+    </string>
+    <string name="jupiter_moon_Callisto_text_box_2">Information</string>
+    <string name="jupiter_moon_Callisto_text_box_3">
+       Callistos surface is extremely heavily cratered and ancient—a visible record of events from
+        the early history of the solar system. However, the very few small craters on Callisto
+        indicate a small degree of current surface activity.
+    </string>
+    <string name="jupiter_moon_Callisto_text_box_4">Structure</string>
+    <string name="jupiter_moon_Callisto_text_box_5">
+        The interiors of Io, Europa and Ganymede have a layered structure (as does Earth). Io has a
+        core, and a mantle of at least partially molten rock, topped by a crust of solid rock coated
+        with sulfur compounds. Europa and Ganymede both have a core; a rock envelope around the
+        core; a thick, soft ice layer; and a thin crust of impure water ice. In the case of Europa,
+        a global subsurface water layer probably lies just below the icy crust. Layering at Callisto
+        is less well defined and appears to be mainly a mixture of ice and rock.
+    </string>
+    <string name="jupiter_moon_Callisto_text_box_6">Moon Interactions</string>
+    <string name="jupiter_moon_Callisto_text_box_7">
+        Three of the moons influence each other in an interesting way. Io is in a tug-of-war with
+        Ganymede and Europa, and Europas orbital period (time to go around Jupiter once) is twice
+        Ios period, and Ganymedes period is twice that of Europa. In other words, every time
+        Ganymede goes around Jupiter once, Europa makes two orbits and Io makes four orbits. The
+        moons all keep the same face towards Jupiter as they orbit, meaning that each moon turns
+        once on its axis for every orbit around Jupiter.
+    </string>
+    <!-- saturn moon Hyperion information -->
+    <string name="saturn_moon_hyperion">Hyperion</string>
+    <string name="saturn_moon_hyperion_text_box_1">
+        The Voyager and Pioneer flybys of the 1970s and 1980s provided rough sketches of Saturn’s
+        moons. But during its many years in Saturn orbit, NASA’s Cassini spacecraft discovered
+        previously unknown moons, solved mysteries about known ones, studied their interactions
+        with the rings and uncovered new mysteries—including the discovery on an ocean moon with
+        potential ingredients for life—that will engage a whole new generation of space scientists.
+        While the larger moons are spherical, others are shaped like a sweet potato (Prometheus),
+        a regular potato (Pandora), a meatball (Janus), and even a sponge (Hyperion). Some have a
+        gnarled, irregular shape and texture like a dirty ice-ball (Epimetheus). One object observed
+        in the rings (and unofficially called Peggy) may be a moon forming or disintegrating, or it
+        might not truly be a moon at all. Four spacecraft have visited the Saturn system, but
+        Cassini alone actually orbited the ringed planet. Doing so bought Cassini time—more than
+        a decade—to linger and watch Saturn’s exotic zoo of 60-plus moons like no spacecraft
+        before. Cassini looked, listened, sniffed and even tasted Saturn’s moons, and what it
+        learned about them is nothing less than extraordinary.
+    </string>
+    <string name="saturn_moon_hyperion_text_box_2">Habitability Outside the Habitability Zone</string>
+    <string name="saturn_moon_hyperion_text_box_3">
+        Haze-enshrouded Titan is Saturn’s largest moon and the solar system’s second-largest, and
+        an all-around exceptional place. Titan is the only known world other than Earth where any
+        sort of liquid collects on its surface.
+        Earth has liquid water oceans because it orbits within the solar system’s habitable zone,
+        the range of distance from our sun that is neither so hot that oceans boil away nor so cold
+        that they’re frozen. The Saturn system is far outside of the habitable zone, and Titan’s
+        surface temperature is so cold that the moon’s surface is largely water ice instead of
+        rock. But the temperature is just right for liquid methane and ethane. Cassini scientists
+        found not only that liquid methane and ethane exist on Titan, but that they rain from the
+        sky and fill liquid lakes, which are as wide as several hundred miles (or kilometers) and
+        as deep as hundreds of feet (or meters). Despite Titan’s distance from the sun, Cassini
+        also found evidence of a global (or at least regional) liquid water ocean below its frigid
+        surface, but Titan isn’t the only Saturnian moon that boasts of a subsurface sea.
+    </string>
+    <string name="saturn_moon_hyperion_text_box_4">Ocean Moon</string>
+    <string name="saturn_moon_hyperion_text_box_5">
+        Cassini scientists were astonished when they found a plume spraying water vapor, icy
+        particles and simple organic materials into space from the south polar region of Enceladus.
+        Scientists determined that the jets are the source of material for Saturn’s E-Ring. The
+        jets spew out of great fissures, or cracks, known as “tiger stripes,” which Cassini
+        scientists found grow wider or narrower depending on where Enceladus is in its orbit
+        around Saturn. Observations of its gravity and the contents of the plume suggested that
+        Enceladus almost certainly contains a subsurface liquid water ocean near its southern
+        polar region. Now more and more Cassini data indicates that Enceladus is home to a global
+        (not just regional) ocean, and the jets near the south polar region are powered by
+        hotspots, where heat from the interior ocean escapes. On Earth, hydrothermal vents at the
+        ocean floor can produce habitats where organisms can flourish, completely cut off from
+        sunlight. Many scientists suspect that life on Earth might have begun around these undersea
+        environments. The evidence is beginning to pile up that Enceladus might have hydrothermal
+        vents too. But vents or no vents, the Cassini mission showed that Enceladus appears to have
+        all the components necessary for life. The food component is methane, which has been
+        observed in surprising abundance in the plume, said Bonnie Buratti, a senior research
+        scientist at NASA’s Jet Propulsion Laboratory. “Water, food, and heat—everything is there
+        for life as we know it,” she said. “It’s all there.” Even if Enceladus isn’t home to even
+        simple organisms, the presence of the necessary conditions is itself a remarkable finding.
+    </string>
+    <string name="saturn_moon_hyperion_text_box_6">Moon Mysteries Managed</string>
+    <string name="saturn_moon_hyperion_text_box_7">
+        Enceladus and Titan get a lot of attention, but the Cassini mission also provided countless
+        insights about dozens of Saturn’s other moons. The moon Mimas, whose Herschel Crater makes
+        it look like the Death Star from "Star Wars," was thought to be an old, dead world,
+        according to Cassini project scientist Linda Spilker. But Cassini scientists found
+        evidence that it too may have a subsurface ocean, or at least a football-shaped water-ice
+        core. “It’s curious. Mimas and Enceladus are the same size,” Spilker said, but Enceladus
+        has water jets while Mimas appears not to. The reason for their differences is unknown.
+        Cassini also found thin atmospheres around the moons Dione and Rhea—but we’re talking thin,
+        around 5 trillion times less dense than at Earth’s surface. Hyperion can’t boast any sort of
+        atmosphere, but the tumbling, sponge-looking moon does build up a static charge, which
+        scientists realized when Cassini passed through a beam of electrons coming up from the
+        moon’s surface. Hyperion is the only object in the solar system other than Earth’s moon
+        that’s been confirmed as having a charged surface. Cassini also solved the centuries-old
+        puzzle about why the moon Iapetus has one snow-white hemisphere while its other hemisphere
+        is nearly as dark as charcoal. Iapetus is tidally locked, so it always shows the same side
+        to Saturn, and one side always faces the direction in which it’s orbiting. It turns out that
+        dark material falls on Iapetus’s leading side. “It’s coming actually from [the outer moon]
+        Phoebe’s ring—it’s Phoebe dust,” Spilker said. The moon Phoebe creates one of Saturn’s
+        rings, and Iapetus is flying through its debris. “Headed forward, you get all the bug
+        splats,” Spilker said. At the same time, ice migrates to the poles, not by sliding but by
+        sort of hopping, a molecule at a time. On the moon Tethys, Cassini observed mysterious red
+        arcs, though they weren’t easy to see. “We didn’t even see them until a Cassini scientist
+        started looking in the near-infrared,” Spilker said. In the infrared, the red arcs are
+        obvious, as if someone dragged a giant red crayon across the surface of a golf ball. The
+        arcs don’t appear to be related to any physical features of the moon’s surface, such as
+        valleys or fractures. “They go up mountains and down into craters,” Spilker said. “But
+        there’s no obvious fractures.” If the red arcs are coming from fractures, they’re too small
+        to see at the resolution Cassini’s instruments provided. The arcs are also unevenly
+        distributed on the moon’s surface. “It’s only the north,” Spilker said. “Why aren’t they in
+        the south? It’s just sort of a late-mission mystery.” As scientists continue to analyze
+        Cassini’s data, they will likely solve more mysteries about Saturn’s menagerie of moons,
+        and they will almost certainly find more mysteries that need solving.
+    </string>
+
+    <!-- saturn moon laptus information -->
+    <string name="saturn_moon_laptus">Laptus</string>
+    <string name="saturn_moon_laptus_text_box_1">
+        The Voyager and Pioneer flybys of the 1970s and 1980s provided rough sketches of Saturn’s
+        moons. But during its many years in Saturn orbit, NASA’s Cassini spacecraft discovered
+        previously unknown moons, solved mysteries about known ones, studied their interactions
+        with the rings and uncovered new mysteries—including the discovery on an ocean moon with
+        potential ingredients for life—that will engage a whole new generation of space scientists.
+        While the larger moons are spherical, others are shaped like a sweet potato (Prometheus),
+        a regular potato (Pandora), a meatball (Janus), and even a sponge (Hyperion). Some have a
+        gnarled, irregular shape and texture like a dirty ice-ball (Epimetheus). One object observed
+        in the rings (and unofficially called Peggy) may be a moon forming or disintegrating, or it
+        might not truly be a moon at all. Four spacecraft have visited the Saturn system, but
+        Cassini alone actually orbited the ringed planet. Doing so bought Cassini time—more than
+        a decade—to linger and watch Saturn’s exotic zoo of 60-plus moons like no spacecraft
+        before. Cassini looked, listened, sniffed and even tasted Saturn’s moons, and what it
+        learned about them is nothing less than extraordinary.
+    </string>
+    <string name="saturn_moon_laptus_text_box_2">Habitability Outside the Habitability Zone</string>
+    <string name="saturn_moon_laptus_text_box_3">
+        Haze-enshrouded Titan is Saturn’s largest moon and the solar system’s second-largest, and
+        an all-around exceptional place. Titan is the only known world other than Earth where any
+        sort of liquid collects on its surface.
+        Earth has liquid water oceans because it orbits within the solar system’s habitable zone,
+        the range of distance from our sun that is neither so hot that oceans boil away nor so cold
+        that they’re frozen. The Saturn system is far outside of the habitable zone, and Titan’s
+        surface temperature is so cold that the moon’s surface is largely water ice instead of
+        rock. But the temperature is just right for liquid methane and ethane. Cassini scientists
+        found not only that liquid methane and ethane exist on Titan, but that they rain from the
+        sky and fill liquid lakes, which are as wide as several hundred miles (or kilometers) and
+        as deep as hundreds of feet (or meters). Despite Titan’s distance from the sun, Cassini
+        also found evidence of a global (or at least regional) liquid water ocean below its frigid
+        surface, but Titan isn’t the only Saturnian moon that boasts of a subsurface sea.
+    </string>
+    <string name="saturn_moon_laptus_text_box_4">Ocean Moon</string>
+    <string name="saturn_moon_laptus_text_box_5">
+        Cassini scientists were astonished when they found a plume spraying water vapor, icy
+        particles and simple organic materials into space from the south polar region of Enceladus.
+        Scientists determined that the jets are the source of material for Saturn’s E-Ring. The
+        jets spew out of great fissures, or cracks, known as “tiger stripes,” which Cassini
+        scientists found grow wider or narrower depending on where Enceladus is in its orbit
+        around Saturn. Observations of its gravity and the contents of the plume suggested that
+        Enceladus almost certainly contains a subsurface liquid water ocean near its southern
+        polar region. Now more and more Cassini data indicates that Enceladus is home to a global
+        (not just regional) ocean, and the jets near the south polar region are powered by
+        hotspots, where heat from the interior ocean escapes. On Earth, hydrothermal vents at the
+        ocean floor can produce habitats where organisms can flourish, completely cut off from
+        sunlight. Many scientists suspect that life on Earth might have begun around these undersea
+        environments. The evidence is beginning to pile up that Enceladus might have hydrothermal
+        vents too. But vents or no vents, the Cassini mission showed that Enceladus appears to have
+        all the components necessary for life. The food component is methane, which has been
+        observed in surprising abundance in the plume, said Bonnie Buratti, a senior research
+        scientist at NASA’s Jet Propulsion Laboratory. “Water, food, and heat—everything is there
+        for life as we know it,” she said. “It’s all there.” Even if Enceladus isn’t home to even
+        simple organisms, the presence of the necessary conditions is itself a remarkable finding.
+    </string>
+    <string name="saturn_moon_laptus_text_box_6">Moon Mysteries Managed</string>
+    <string name="saturn_moon_laptus_text_box_7">
+        Enceladus and Titan get a lot of attention, but the Cassini mission also provided countless
+        insights about dozens of Saturn’s other moons. The moon Mimas, whose Herschel Crater makes
+        it look like the Death Star from "Star Wars," was thought to be an old, dead world,
+        according to Cassini project scientist Linda Spilker. But Cassini scientists found
+        evidence that it too may have a subsurface ocean, or at least a football-shaped water-ice
+        core. “It’s curious. Mimas and Enceladus are the same size,” Spilker said, but Enceladus
+        has water jets while Mimas appears not to. The reason for their differences is unknown.
+        Cassini also found thin atmospheres around the moons Dione and Rhea—but we’re talking thin,
+        around 5 trillion times less dense than at Earth’s surface. Hyperion can’t boast any sort of
+        atmosphere, but the tumbling, sponge-looking moon does build up a static charge, which
+        scientists realized when Cassini passed through a beam of electrons coming up from the
+        moon’s surface. Hyperion is the only object in the solar system other than Earth’s moon
+        that’s been confirmed as having a charged surface. Cassini also solved the centuries-old
+        puzzle about why the moon Iapetus has one snow-white hemisphere while its other hemisphere
+        is nearly as dark as charcoal. Iapetus is tidally locked, so it always shows the same side
+        to Saturn, and one side always faces the direction in which it’s orbiting. It turns out that
+        dark material falls on Iapetus’s leading side. “It’s coming actually from [the outer moon]
+        Phoebe’s ring—it’s Phoebe dust,” Spilker said. The moon Phoebe creates one of Saturn’s
+        rings, and Iapetus is flying through its debris. “Headed forward, you get all the bug
+        splats,” Spilker said. At the same time, ice migrates to the poles, not by sliding but by
+        sort of hopping, a molecule at a time. On the moon Tethys, Cassini observed mysterious red
+        arcs, though they weren’t easy to see. “We didn’t even see them until a Cassini scientist
+        started looking in the near-infrared,” Spilker said. In the infrared, the red arcs are
+        obvious, as if someone dragged a giant red crayon across the surface of a golf ball. The
+        arcs don’t appear to be related to any physical features of the moon’s surface, such as
+        valleys or fractures. “They go up mountains and down into craters,” Spilker said. “But
+        there’s no obvious fractures.” If the red arcs are coming from fractures, they’re too small
+        to see at the resolution Cassini’s instruments provided. The arcs are also unevenly
+        distributed on the moon’s surface. “It’s only the north,” Spilker said. “Why aren’t they in
+        the south? It’s just sort of a late-mission mystery.” As scientists continue to analyze
+        Cassini’s data, they will likely solve more mysteries about Saturn’s menagerie of moons,
+        and they will almost certainly find more mysteries that need solving.
+    </string>
+
+    <!-- saturn moon mimas information -->
+    <string name="saturn_moon_mimas">Mimas</string>
+    <string name="saturn_moon_mimas_text_box_1">
+        The Voyager and Pioneer flybys of the 1970s and 1980s provided rough sketches of Saturn’s
+        moons. But during its many years in Saturn orbit, NASA’s Cassini spacecraft discovered
+        previously unknown moons, solved mysteries about known ones, studied their interactions
+        with the rings and uncovered new mysteries—including the discovery on an ocean moon with
+        potential ingredients for life—that will engage a whole new generation of space scientists.
+        While the larger moons are spherical, others are shaped like a sweet potato (Prometheus),
+        a regular potato (Pandora), a meatball (Janus), and even a sponge (Hyperion). Some have a
+        gnarled, irregular shape and texture like a dirty ice-ball (Epimetheus). One object observed
+        in the rings (and unofficially called Peggy) may be a moon forming or disintegrating, or it
+        might not truly be a moon at all. Four spacecraft have visited the Saturn system, but
+        Cassini alone actually orbited the ringed planet. Doing so bought Cassini time—more than
+        a decade—to linger and watch Saturn’s exotic zoo of 60-plus moons like no spacecraft
+        before. Cassini looked, listened, sniffed and even tasted Saturn’s moons, and what it
+        learned about them is nothing less than extraordinary.
+    </string>
+    <string name="saturn_moon_mimas_text_box_2">Habitability Outside the Habitability Zone</string>
+    <string name="saturn_moon_mimas_text_box_3">
+        Haze-enshrouded Titan is Saturn’s largest moon and the solar system’s second-largest, and
+        an all-around exceptional place. Titan is the only known world other than Earth where any
+        sort of liquid collects on its surface.
+        Earth has liquid water oceans because it orbits within the solar system’s habitable zone,
+        the range of distance from our sun that is neither so hot that oceans boil away nor so cold
+        that they’re frozen. The Saturn system is far outside of the habitable zone, and Titan’s
+        surface temperature is so cold that the moon’s surface is largely water ice instead of
+        rock. But the temperature is just right for liquid methane and ethane. Cassini scientists
+        found not only that liquid methane and ethane exist on Titan, but that they rain from the
+        sky and fill liquid lakes, which are as wide as several hundred miles (or kilometers) and
+        as deep as hundreds of feet (or meters). Despite Titan’s distance from the sun, Cassini
+        also found evidence of a global (or at least regional) liquid water ocean below its frigid
+        surface, but Titan isn’t the only Saturnian moon that boasts of a subsurface sea.
+    </string>
+    <string name="saturn_moon_mimas_text_box_4">Ocean Moon</string>
+    <string name="saturn_moon_mimas_text_box_5">
+        Cassini scientists were astonished when they found a plume spraying water vapor, icy
+        particles and simple organic materials into space from the south polar region of Enceladus.
+        Scientists determined that the jets are the source of material for Saturn’s E-Ring. The
+        jets spew out of great fissures, or cracks, known as “tiger stripes,” which Cassini
+        scientists found grow wider or narrower depending on where Enceladus is in its orbit
+        around Saturn. Observations of its gravity and the contents of the plume suggested that
+        Enceladus almost certainly contains a subsurface liquid water ocean near its southern
+        polar region. Now more and more Cassini data indicates that Enceladus is home to a global
+        (not just regional) ocean, and the jets near the south polar region are powered by
+        hotspots, where heat from the interior ocean escapes. On Earth, hydrothermal vents at the
+        ocean floor can produce habitats where organisms can flourish, completely cut off from
+        sunlight. Many scientists suspect that life on Earth might have begun around these undersea
+        environments. The evidence is beginning to pile up that Enceladus might have hydrothermal
+        vents too. But vents or no vents, the Cassini mission showed that Enceladus appears to have
+        all the components necessary for life. The food component is methane, which has been
+        observed in surprising abundance in the plume, said Bonnie Buratti, a senior research
+        scientist at NASA’s Jet Propulsion Laboratory. “Water, food, and heat—everything is there
+        for life as we know it,” she said. “It’s all there.” Even if Enceladus isn’t home to even
+        simple organisms, the presence of the necessary conditions is itself a remarkable finding.
+    </string>
+    <string name="saturn_moon_mimas_text_box_6">Moon Mysteries Managed</string>
+    <string name="saturn_moon_mimas_text_box_7">
+        Enceladus and Titan get a lot of attention, but the Cassini mission also provided countless
+        insights about dozens of Saturn’s other moons. The moon Mimas, whose Herschel Crater makes
+        it look like the Death Star from "Star Wars," was thought to be an old, dead world,
+        according to Cassini project scientist Linda Spilker. But Cassini scientists found
+        evidence that it too may have a subsurface ocean, or at least a football-shaped water-ice
+        core. “It’s curious. Mimas and Enceladus are the same size,” Spilker said, but Enceladus
+        has water jets while Mimas appears not to. The reason for their differences is unknown.
+        Cassini also found thin atmospheres around the moons Dione and Rhea—but we’re talking thin,
+        around 5 trillion times less dense than at Earth’s surface. Hyperion can’t boast any sort of
+        atmosphere, but the tumbling, sponge-looking moon does build up a static charge, which
+        scientists realized when Cassini passed through a beam of electrons coming up from the
+        moon’s surface. Hyperion is the only object in the solar system other than Earth’s moon
+        that’s been confirmed as having a charged surface. Cassini also solved the centuries-old
+        puzzle about why the moon Iapetus has one snow-white hemisphere while its other hemisphere
+        is nearly as dark as charcoal. Iapetus is tidally locked, so it always shows the same side
+        to Saturn, and one side always faces the direction in which it’s orbiting. It turns out that
+        dark material falls on Iapetus’s leading side. “It’s coming actually from [the outer moon]
+        Phoebe’s ring—it’s Phoebe dust,” Spilker said. The moon Phoebe creates one of Saturn’s
+        rings, and Iapetus is flying through its debris. “Headed forward, you get all the bug
+        splats,” Spilker said. At the same time, ice migrates to the poles, not by sliding but by
+        sort of hopping, a molecule at a time. On the moon Tethys, Cassini observed mysterious red
+        arcs, though they weren’t easy to see. “We didn’t even see them until a Cassini scientist
+        started looking in the near-infrared,” Spilker said. In the infrared, the red arcs are
+        obvious, as if someone dragged a giant red crayon across the surface of a golf ball. The
+        arcs don’t appear to be related to any physical features of the moon’s surface, such as
+        valleys or fractures. “They go up mountains and down into craters,” Spilker said. “But
+        there’s no obvious fractures.” If the red arcs are coming from fractures, they’re too small
+        to see at the resolution Cassini’s instruments provided. The arcs are also unevenly
+        distributed on the moon’s surface. “It’s only the north,” Spilker said. “Why aren’t they in
+        the south? It’s just sort of a late-mission mystery.” As scientists continue to analyze
+        Cassini’s data, they will likely solve more mysteries about Saturn’s menagerie of moons,
+        and they will almost certainly find more mysteries that need solving.
+    </string>
+
+
+    <!-- saturn moon rhea information -->
+    <string name="saturn_moon_rhea">Rhea</string>
+    <string name="saturn_moon_rhea_text_box_1">
+        The Voyager and Pioneer flybys of the 1970s and 1980s provided rough sketches of Saturn’s
+        moons. But during its many years in Saturn orbit, NASA’s Cassini spacecraft discovered
+        previously unknown moons, solved mysteries about known ones, studied their interactions
+        with the rings and uncovered new mysteries—including the discovery on an ocean moon with
+        potential ingredients for life—that will engage a whole new generation of space scientists.
+        While the larger moons are spherical, others are shaped like a sweet potato (Prometheus),
+        a regular potato (Pandora), a meatball (Janus), and even a sponge (Hyperion). Some have a
+        gnarled, irregular shape and texture like a dirty ice-ball (Epimetheus). One object observed
+        in the rings (and unofficially called Peggy) may be a moon forming or disintegrating, or it
+        might not truly be a moon at all. Four spacecraft have visited the Saturn system, but
+        Cassini alone actually orbited the ringed planet. Doing so bought Cassini time—more than
+        a decade—to linger and watch Saturn’s exotic zoo of 60-plus moons like no spacecraft
+        before. Cassini looked, listened, sniffed and even tasted Saturn’s moons, and what it
+        learned about them is nothing less than extraordinary.
+    </string>
+    <string name="saturn_moon_rhea_text_box_2">Habitability Outside the Habitability Zone</string>
+    <string name="saturn_moon_rhea_text_box_3">
+        Haze-enshrouded Titan is Saturn’s largest moon and the solar system’s second-largest, and
+        an all-around exceptional place. Titan is the only known world other than Earth where any
+        sort of liquid collects on its surface.
+        Earth has liquid water oceans because it orbits within the solar system’s habitable zone,
+        the range of distance from our sun that is neither so hot that oceans boil away nor so cold
+        that they’re frozen. The Saturn system is far outside of the habitable zone, and Titan’s
+        surface temperature is so cold that the moon’s surface is largely water ice instead of
+        rock. But the temperature is just right for liquid methane and ethane. Cassini scientists
+        found not only that liquid methane and ethane exist on Titan, but that they rain from the
+        sky and fill liquid lakes, which are as wide as several hundred miles (or kilometers) and
+        as deep as hundreds of feet (or meters). Despite Titan’s distance from the sun, Cassini
+        also found evidence of a global (or at least regional) liquid water ocean below its frigid
+        surface, but Titan isn’t the only Saturnian moon that boasts of a subsurface sea.
+    </string>
+    <string name="saturn_moon_rhea_text_box_4">Ocean Moon</string>
+    <string name="saturn_moon_rhea_text_box_5">
+        Cassini scientists were astonished when they found a plume spraying water vapor, icy
+        particles and simple organic materials into space from the south polar region of Enceladus.
+        Scientists determined that the jets are the source of material for Saturn’s E-Ring. The
+        jets spew out of great fissures, or cracks, known as “tiger stripes,” which Cassini
+        scientists found grow wider or narrower depending on where Enceladus is in its orbit
+        around Saturn. Observations of its gravity and the contents of the plume suggested that
+        Enceladus almost certainly contains a subsurface liquid water ocean near its southern
+        polar region. Now more and more Cassini data indicates that Enceladus is home to a global
+        (not just regional) ocean, and the jets near the south polar region are powered by
+        hotspots, where heat from the interior ocean escapes. On Earth, hydrothermal vents at the
+        ocean floor can produce habitats where organisms can flourish, completely cut off from
+        sunlight. Many scientists suspect that life on Earth might have begun around these undersea
+        environments. The evidence is beginning to pile up that Enceladus might have hydrothermal
+        vents too. But vents or no vents, the Cassini mission showed that Enceladus appears to have
+        all the components necessary for life. The food component is methane, which has been
+        observed in surprising abundance in the plume, said Bonnie Buratti, a senior research
+        scientist at NASA’s Jet Propulsion Laboratory. “Water, food, and heat—everything is there
+        for life as we know it,” she said. “It’s all there.” Even if Enceladus isn’t home to even
+        simple organisms, the presence of the necessary conditions is itself a remarkable finding.
+    </string>
+    <string name="saturn_moon_rhea_text_box_6">Moon Mysteries Managed</string>
+    <string name="saturn_moon_rhea_text_box_7">
+        Enceladus and Titan get a lot of attention, but the Cassini mission also provided countless
+        insights about dozens of Saturn’s other moons. The moon Mimas, whose Herschel Crater makes
+        it look like the Death Star from "Star Wars," was thought to be an old, dead world,
+        according to Cassini project scientist Linda Spilker. But Cassini scientists found
+        evidence that it too may have a subsurface ocean, or at least a football-shaped water-ice
+        core. “It’s curious. Mimas and Enceladus are the same size,” Spilker said, but Enceladus
+        has water jets while Mimas appears not to. The reason for their differences is unknown.
+        Cassini also found thin atmospheres around the moons Dione and Rhea—but we’re talking thin,
+        around 5 trillion times less dense than at Earth’s surface. Hyperion can’t boast any sort of
+        atmosphere, but the tumbling, sponge-looking moon does build up a static charge, which
+        scientists realized when Cassini passed through a beam of electrons coming up from the
+        moon’s surface. Hyperion is the only object in the solar system other than Earth’s moon
+        that’s been confirmed as having a charged surface. Cassini also solved the centuries-old
+        puzzle about why the moon Iapetus has one snow-white hemisphere while its other hemisphere
+        is nearly as dark as charcoal. Iapetus is tidally locked, so it always shows the same side
+        to Saturn, and one side always faces the direction in which it’s orbiting. It turns out that
+        dark material falls on Iapetus’s leading side. “It’s coming actually from [the outer moon]
+        Phoebe’s ring—it’s Phoebe dust,” Spilker said. The moon Phoebe creates one of Saturn’s
+        rings, and Iapetus is flying through its debris. “Headed forward, you get all the bug
+        splats,” Spilker said. At the same time, ice migrates to the poles, not by sliding but by
+        sort of hopping, a molecule at a time. On the moon Tethys, Cassini observed mysterious red
+        arcs, though they weren’t easy to see. “We didn’t even see them until a Cassini scientist
+        started looking in the near-infrared,” Spilker said. In the infrared, the red arcs are
+        obvious, as if someone dragged a giant red crayon across the surface of a golf ball. The
+        arcs don’t appear to be related to any physical features of the moon’s surface, such as
+        valleys or fractures. “They go up mountains and down into craters,” Spilker said. “But
+        there’s no obvious fractures.” If the red arcs are coming from fractures, they’re too small
+        to see at the resolution Cassini’s instruments provided. The arcs are also unevenly
+        distributed on the moon’s surface. “It’s only the north,” Spilker said. “Why aren’t they in
+        the south? It’s just sort of a late-mission mystery.” As scientists continue to analyze
+        Cassini’s data, they will likely solve more mysteries about Saturn’s menagerie of moons,
+        and they will almost certainly find more mysteries that need solving.
+    </string>
+
+    <!-- saturn moon thtys information -->
+    <string name="saturn_moon_thtys">Thtys</string>
+    <string name="saturn_moon_thtys_text_box_1">
+        The Voyager and Pioneer flybys of the 1970s and 1980s provided rough sketches of Saturn’s
+        moons. But during its many years in Saturn orbit, NASA’s Cassini spacecraft discovered
+        previously unknown moons, solved mysteries about known ones, studied their interactions
+        with the rings and uncovered new mysteries—including the discovery on an ocean moon with
+        potential ingredients for life—that will engage a whole new generation of space scientists.
+        While the larger moons are spherical, others are shaped like a sweet potato (Prometheus),
+        a regular potato (Pandora), a meatball (Janus), and even a sponge (Hyperion). Some have a
+        gnarled, irregular shape and texture like a dirty ice-ball (Epimetheus). One object observed
+        in the rings (and unofficially called Peggy) may be a moon forming or disintegrating, or it
+        might not truly be a moon at all. Four spacecraft have visited the Saturn system, but
+        Cassini alone actually orbited the ringed planet. Doing so bought Cassini time—more than
+        a decade—to linger and watch Saturn’s exotic zoo of 60-plus moons like no spacecraft
+        before. Cassini looked, listened, sniffed and even tasted Saturn’s moons, and what it
+        learned about them is nothing less than extraordinary.
+    </string>
+    <string name="saturn_moon_thtys_text_box_2">Habitability Outside the Habitability Zone</string>
+    <string name="saturn_moon_thtys_text_box_3">
+        Haze-enshrouded Titan is Saturn’s largest moon and the solar system’s second-largest, and
+        an all-around exceptional place. Titan is the only known world other than Earth where any
+        sort of liquid collects on its surface.
+        Earth has liquid water oceans because it orbits within the solar system’s habitable zone,
+        the range of distance from our sun that is neither so hot that oceans boil away nor so cold
+        that they’re frozen. The Saturn system is far outside of the habitable zone, and Titan’s
+        surface temperature is so cold that the moon’s surface is largely water ice instead of
+        rock. But the temperature is just right for liquid methane and ethane. Cassini scientists
+        found not only that liquid methane and ethane exist on Titan, but that they rain from the
+        sky and fill liquid lakes, which are as wide as several hundred miles (or kilometers) and
+        as deep as hundreds of feet (or meters). Despite Titan’s distance from the sun, Cassini
+        also found evidence of a global (or at least regional) liquid water ocean below its frigid
+        surface, but Titan isn’t the only Saturnian moon that boasts of a subsurface sea.
+    </string>
+    <string name="saturn_moon_thtys_text_box_4">Ocean Moon</string>
+    <string name="saturn_moon_thtys_text_box_5">
+        Cassini scientists were astonished when they found a plume spraying water vapor, icy
+        particles and simple organic materials into space from the south polar region of Enceladus.
+        Scientists determined that the jets are the source of material for Saturn’s E-Ring. The
+        jets spew out of great fissures, or cracks, known as “tiger stripes,” which Cassini
+        scientists found grow wider or narrower depending on where Enceladus is in its orbit
+        around Saturn. Observations of its gravity and the contents of the plume suggested that
+        Enceladus almost certainly contains a subsurface liquid water ocean near its southern
+        polar region. Now more and more Cassini data indicates that Enceladus is home to a global
+        (not just regional) ocean, and the jets near the south polar region are powered by
+        hotspots, where heat from the interior ocean escapes. On Earth, hydrothermal vents at the
+        ocean floor can produce habitats where organisms can flourish, completely cut off from
+        sunlight. Many scientists suspect that life on Earth might have begun around these undersea
+        environments. The evidence is beginning to pile up that Enceladus might have hydrothermal
+        vents too. But vents or no vents, the Cassini mission showed that Enceladus appears to have
+        all the components necessary for life. The food component is methane, which has been
+        observed in surprising abundance in the plume, said Bonnie Buratti, a senior research
+        scientist at NASA’s Jet Propulsion Laboratory. “Water, food, and heat—everything is there
+        for life as we know it,” she said. “It’s all there.” Even if Enceladus isn’t home to even
+        simple organisms, the presence of the necessary conditions is itself a remarkable finding.
+    </string>
+    <string name="saturn_moon_thtys_text_box_6">Moon Mysteries Managed</string>
+    <string name="saturn_moon_thtys_text_box_7">
+        Enceladus and Titan get a lot of attention, but the Cassini mission also provided countless
+        insights about dozens of Saturn’s other moons. The moon Mimas, whose Herschel Crater makes
+        it look like the Death Star from "Star Wars," was thought to be an old, dead world,
+        according to Cassini project scientist Linda Spilker. But Cassini scientists found
+        evidence that it too may have a subsurface ocean, or at least a football-shaped water-ice
+        core. “It’s curious. Mimas and Enceladus are the same size,” Spilker said, but Enceladus
+        has water jets while Mimas appears not to. The reason for their differences is unknown.
+        Cassini also found thin atmospheres around the moons Dione and Rhea—but we’re talking thin,
+        around 5 trillion times less dense than at Earth’s surface. Hyperion can’t boast any sort of
+        atmosphere, but the tumbling, sponge-looking moon does build up a static charge, which
+        scientists realized when Cassini passed through a beam of electrons coming up from the
+        moon’s surface. Hyperion is the only object in the solar system other than Earth’s moon
+        that’s been confirmed as having a charged surface. Cassini also solved the centuries-old
+        puzzle about why the moon Iapetus has one snow-white hemisphere while its other hemisphere
+        is nearly as dark as charcoal. Iapetus is tidally locked, so it always shows the same side
+        to Saturn, and one side always faces the direction in which it’s orbiting. It turns out that
+        dark material falls on Iapetus’s leading side. “It’s coming actually from [the outer moon]
+        Phoebe’s ring—it’s Phoebe dust,” Spilker said. The moon Phoebe creates one of Saturn’s
+        rings, and Iapetus is flying through its debris. “Headed forward, you get all the bug
+        splats,” Spilker said. At the same time, ice migrates to the poles, not by sliding but by
+        sort of hopping, a molecule at a time. On the moon Tethys, Cassini observed mysterious red
+        arcs, though they weren’t easy to see. “We didn’t even see them until a Cassini scientist
+        started looking in the near-infrared,” Spilker said. In the infrared, the red arcs are
+        obvious, as if someone dragged a giant red crayon across the surface of a golf ball. The
+        arcs don’t appear to be related to any physical features of the moon’s surface, such as
+        valleys or fractures. “They go up mountains and down into craters,” Spilker said. “But
+        there’s no obvious fractures.” If the red arcs are coming from fractures, they’re too small
+        to see at the resolution Cassini’s instruments provided. The arcs are also unevenly
+        distributed on the moon’s surface. “It’s only the north,” Spilker said. “Why aren’t they in
+        the south? It’s just sort of a late-mission mystery.” As scientists continue to analyze
+        Cassini’s data, they will likely solve more mysteries about Saturn’s menagerie of moons,
+        and they will almost certainly find more mysteries that need solving.
+    </string>
+
+
+    <!-- saturn moon triton information -->
+    <string name="saturn_moon_triton">Triton</string>
+    <string name="saturn_moon_triton_text_box_1">
+        The Voyager and Pioneer flybys of the 1970s and 1980s provided rough sketches of Saturn’s
+        moons. But during its many years in Saturn orbit, NASA’s Cassini spacecraft discovered
+        previously unknown moons, solved mysteries about known ones, studied their interactions
+        with the rings and uncovered new mysteries—including the discovery on an ocean moon with
+        potential ingredients for life—that will engage a whole new generation of space scientists.
+        While the larger moons are spherical, others are shaped like a sweet potato (Prometheus),
+        a regular potato (Pandora), a meatball (Janus), and even a sponge (Hyperion). Some have a
+        gnarled, irregular shape and texture like a dirty ice-ball (Epimetheus). One object observed
+        in the rings (and unofficially called Peggy) may be a moon forming or disintegrating, or it
+        might not truly be a moon at all. Four spacecraft have visited the Saturn system, but
+        Cassini alone actually orbited the ringed planet. Doing so bought Cassini time—more than
+        a decade—to linger and watch Saturn’s exotic zoo of 60-plus moons like no spacecraft
+        before. Cassini looked, listened, sniffed and even tasted Saturn’s moons, and what it
+        learned about them is nothing less than extraordinary.
+    </string>
+    <string name="saturn_moon_triton_text_box_2">Habitability Outside the Habitability Zone</string>
+    <string name="saturn_moon_triton_text_box_3">
+        Haze-enshrouded Titan is Saturn’s largest moon and the solar system’s second-largest, and
+        an all-around exceptional place. Titan is the only known world other than Earth where any
+        sort of liquid collects on its surface.
+        Earth has liquid water oceans because it orbits within the solar system’s habitable zone,
+        the range of distance from our sun that is neither so hot that oceans boil away nor so cold
+        that they’re frozen. The Saturn system is far outside of the habitable zone, and Titan’s
+        surface temperature is so cold that the moon’s surface is largely water ice instead of
+        rock. But the temperature is just right for liquid methane and ethane. Cassini scientists
+        found not only that liquid methane and ethane exist on Titan, but that they rain from the
+        sky and fill liquid lakes, which are as wide as several hundred miles (or kilometers) and
+        as deep as hundreds of feet (or meters). Despite Titan’s distance from the sun, Cassini
+        also found evidence of a global (or at least regional) liquid water ocean below its frigid
+        surface, but Titan isn’t the only Saturnian moon that boasts of a subsurface sea.
+    </string>
+    <string name="saturn_moon_triton_text_box_4">Ocean Moon</string>
+    <string name="saturn_moon_triton_text_box_5">
+        Cassini scientists were astonished when they found a plume spraying water vapor, icy
+        particles and simple organic materials into space from the south polar region of Enceladus.
+        Scientists determined that the jets are the source of material for Saturn’s E-Ring. The
+        jets spew out of great fissures, or cracks, known as “tiger stripes,” which Cassini
+        scientists found grow wider or narrower depending on where Enceladus is in its orbit
+        around Saturn. Observations of its gravity and the contents of the plume suggested that
+        Enceladus almost certainly contains a subsurface liquid water ocean near its southern
+        polar region. Now more and more Cassini data indicates that Enceladus is home to a global
+        (not just regional) ocean, and the jets near the south polar region are powered by
+        hotspots, where heat from the interior ocean escapes. On Earth, hydrothermal vents at the
+        ocean floor can produce habitats where organisms can flourish, completely cut off from
+        sunlight. Many scientists suspect that life on Earth might have begun around these undersea
+        environments. The evidence is beginning to pile up that Enceladus might have hydrothermal
+        vents too. But vents or no vents, the Cassini mission showed that Enceladus appears to have
+        all the components necessary for life. The food component is methane, which has been
+        observed in surprising abundance in the plume, said Bonnie Buratti, a senior research
+        scientist at NASA’s Jet Propulsion Laboratory. “Water, food, and heat—everything is there
+        for life as we know it,” she said. “It’s all there.” Even if Enceladus isn’t home to even
+        simple organisms, the presence of the necessary conditions is itself a remarkable finding.
+    </string>
+    <string name="saturn_moon_triton_text_box_6">Moon Mysteries Managed</string>
+    <string name="saturn_moon_triton_text_box_7">
+        Enceladus and Titan get a lot of attention, but the Cassini mission also provided countless
+        insights about dozens of Saturn’s other moons. The moon Mimas, whose Herschel Crater makes
+        it look like the Death Star from "Star Wars," was thought to be an old, dead world,
+        according to Cassini project scientist Linda Spilker. But Cassini scientists found
+        evidence that it too may have a subsurface ocean, or at least a football-shaped water-ice
+        core. “It’s curious. Mimas and Enceladus are the same size,” Spilker said, but Enceladus
+        has water jets while Mimas appears not to. The reason for their differences is unknown.
+        Cassini also found thin atmospheres around the moons Dione and Rhea—but we’re talking thin,
+        around 5 trillion times less dense than at Earth’s surface. Hyperion can’t boast any sort of
+        atmosphere, but the tumbling, sponge-looking moon does build up a static charge, which
+        scientists realized when Cassini passed through a beam of electrons coming up from the
+        moon’s surface. Hyperion is the only object in the solar system other than Earth’s moon
+        that’s been confirmed as having a charged surface. Cassini also solved the centuries-old
+        puzzle about why the moon Iapetus has one snow-white hemisphere while its other hemisphere
+        is nearly as dark as charcoal. Iapetus is tidally locked, so it always shows the same side
+        to Saturn, and one side always faces the direction in which it’s orbiting. It turns out that
+        dark material falls on Iapetus’s leading side. “It’s coming actually from [the outer moon]
+        Phoebe’s ring—it’s Phoebe dust,” Spilker said. The moon Phoebe creates one of Saturn’s
+        rings, and Iapetus is flying through its debris. “Headed forward, you get all the bug
+        splats,” Spilker said. At the same time, ice migrates to the poles, not by sliding but by
+        sort of hopping, a molecule at a time. On the moon Tethys, Cassini observed mysterious red
+        arcs, though they weren’t easy to see. “We didn’t even see them until a Cassini scientist
+        started looking in the near-infrared,” Spilker said. In the infrared, the red arcs are
+        obvious, as if someone dragged a giant red crayon across the surface of a golf ball. The
+        arcs don’t appear to be related to any physical features of the moon’s surface, such as
+        valleys or fractures. “They go up mountains and down into craters,” Spilker said. “But
+        there’s no obvious fractures.” If the red arcs are coming from fractures, they’re too small
+        to see at the resolution Cassini’s instruments provided. The arcs are also unevenly
+        distributed on the moon’s surface. “It’s only the north,” Spilker said. “Why aren’t they in
+        the south? It’s just sort of a late-mission mystery.” As scientists continue to analyze
+        Cassini’s data, they will likely solve more mysteries about Saturn’s menagerie of moons,
+        and they will almost certainly find more mysteries that need solving.
+    </string>
+
+    <!-- saturn moon enceladus information -->
+    <string name="saturn_moon_enceladus">Enceladus</string>
+    <string name="saturn_moon_enceladus_text_box_1">
+        The Voyager and Pioneer flybys of the 1970s and 1980s provided rough sketches of Saturn’s
+        moons. But during its many years in Saturn orbit, NASA’s Cassini spacecraft discovered
+        previously unknown moons, solved mysteries about known ones, studied their interactions
+        with the rings and uncovered new mysteries—including the discovery on an ocean moon with
+        potential ingredients for life—that will engage a whole new generation of space scientists.
+        While the larger moons are spherical, others are shaped like a sweet potato (Prometheus),
+        a regular potato (Pandora), a meatball (Janus), and even a sponge (Hyperion). Some have a
+        gnarled, irregular shape and texture like a dirty ice-ball (Epimetheus). One object observed
+        in the rings (and unofficially called Peggy) may be a moon forming or disintegrating, or it
+        might not truly be a moon at all. Four spacecraft have visited the Saturn system, but
+        Cassini alone actually orbited the ringed planet. Doing so bought Cassini time—more than
+        a decade—to linger and watch Saturn’s exotic zoo of 60-plus moons like no spacecraft
+        before. Cassini looked, listened, sniffed and even tasted Saturn’s moons, and what it
+        learned about them is nothing less than extraordinary.
+    </string>
+    <string name="saturn_moon_enceladus_text_box_2">Habitability Outside the Habitability Zone</string>
+    <string name="saturn_moon_enceladus_text_box_3">
+        Haze-enshrouded Titan is Saturn’s largest moon and the solar system’s second-largest, and
+        an all-around exceptional place. Titan is the only known world other than Earth where any
+        sort of liquid collects on its surface.
+        Earth has liquid water oceans because it orbits within the solar system’s habitable zone,
+        the range of distance from our sun that is neither so hot that oceans boil away nor so cold
+        that they’re frozen. The Saturn system is far outside of the habitable zone, and Titan’s
+        surface temperature is so cold that the moon’s surface is largely water ice instead of
+        rock. But the temperature is just right for liquid methane and ethane. Cassini scientists
+        found not only that liquid methane and ethane exist on Titan, but that they rain from the
+        sky and fill liquid lakes, which are as wide as several hundred miles (or kilometers) and
+        as deep as hundreds of feet (or meters). Despite Titan’s distance from the sun, Cassini
+        also found evidence of a global (or at least regional) liquid water ocean below its frigid
+        surface, but Titan isn’t the only Saturnian moon that boasts of a subsurface sea.
+    </string>
+    <string name="saturn_moon_enceladus_text_box_4">Ocean Moon</string>
+    <string name="saturn_moon_enceladus_text_box_5">
+        Cassini scientists were astonished when they found a plume spraying water vapor, icy
+        particles and simple organic materials into space from the south polar region of Enceladus.
+        Scientists determined that the jets are the source of material for Saturn’s E-Ring. The
+        jets spew out of great fissures, or cracks, known as “tiger stripes,” which Cassini
+        scientists found grow wider or narrower depending on where Enceladus is in its orbit
+        around Saturn. Observations of its gravity and the contents of the plume suggested that
+        Enceladus almost certainly contains a subsurface liquid water ocean near its southern
+        polar region. Now more and more Cassini data indicates that Enceladus is home to a global
+        (not just regional) ocean, and the jets near the south polar region are powered by
+        hotspots, where heat from the interior ocean escapes. On Earth, hydrothermal vents at the
+        ocean floor can produce habitats where organisms can flourish, completely cut off from
+        sunlight. Many scientists suspect that life on Earth might have begun around these undersea
+        environments. The evidence is beginning to pile up that Enceladus might have hydrothermal
+        vents too. But vents or no vents, the Cassini mission showed that Enceladus appears to have
+        all the components necessary for life. The food component is methane, which has been
+        observed in surprising abundance in the plume, said Bonnie Buratti, a senior research
+        scientist at NASA’s Jet Propulsion Laboratory. “Water, food, and heat—everything is there
+        for life as we know it,” she said. “It’s all there.” Even if Enceladus isn’t home to even
+        simple organisms, the presence of the necessary conditions is itself a remarkable finding.
+    </string>
+    <string name="saturn_moon_enceladus_text_box_6">Moon Mysteries Managed</string>
+    <string name="saturn_moon_enceladus_text_box_7">
+        Enceladus and Titan get a lot of attention, but the Cassini mission also provided countless
+        insights about dozens of Saturn’s other moons. The moon Mimas, whose Herschel Crater makes
+        it look like the Death Star from "Star Wars," was thought to be an old, dead world,
+        according to Cassini project scientist Linda Spilker. But Cassini scientists found
+        evidence that it too may have a subsurface ocean, or at least a football-shaped water-ice
+        core. “It’s curious. Mimas and Enceladus are the same size,” Spilker said, but Enceladus
+        has water jets while Mimas appears not to. The reason for their differences is unknown.
+        Cassini also found thin atmospheres around the moons Dione and Rhea—but we’re talking thin,
+        around 5 trillion times less dense than at Earth’s surface. Hyperion can’t boast any sort of
+        atmosphere, but the tumbling, sponge-looking moon does build up a static charge, which
+        scientists realized when Cassini passed through a beam of electrons coming up from the
+        moon’s surface. Hyperion is the only object in the solar system other than Earth’s moon
+        that’s been confirmed as having a charged surface. Cassini also solved the centuries-old
+        puzzle about why the moon Iapetus has one snow-white hemisphere while its other hemisphere
+        is nearly as dark as charcoal. Iapetus is tidally locked, so it always shows the same side
+        to Saturn, and one side always faces the direction in which it’s orbiting. It turns out that
+        dark material falls on Iapetus’s leading side. “It’s coming actually from [the outer moon]
+        Phoebe’s ring—it’s Phoebe dust,” Spilker said. The moon Phoebe creates one of Saturn’s
+        rings, and Iapetus is flying through its debris. “Headed forward, you get all the bug
+        splats,” Spilker said. At the same time, ice migrates to the poles, not by sliding but by
+        sort of hopping, a molecule at a time. On the moon Tethys, Cassini observed mysterious red
+        arcs, though they weren’t easy to see. “We didn’t even see them until a Cassini scientist
+        started looking in the near-infrared,” Spilker said. In the infrared, the red arcs are
+        obvious, as if someone dragged a giant red crayon across the surface of a golf ball. The
+        arcs don’t appear to be related to any physical features of the moon’s surface, such as
+        valleys or fractures. “They go up mountains and down into craters,” Spilker said. “But
+        there’s no obvious fractures.” If the red arcs are coming from fractures, they’re too small
+        to see at the resolution Cassini’s instruments provided. The arcs are also unevenly
+        distributed on the moon’s surface. “It’s only the north,” Spilker said. “Why aren’t they in
+        the south? It’s just sort of a late-mission mystery.” As scientists continue to analyze
+        Cassini’s data, they will likely solve more mysteries about Saturn’s menagerie of moons,
+        and they will almost certainly find more mysteries that need solving.
+    </string>
+
+    <!-- comet information -->
+    <string name="comet">Comets</string>
+    <string name="comet_text_box_1">
+       In the distant past, people were both awed and alarmed by comets, perceiving them as
+        long-haired stars that appeared in the sky unannounced and unpredictably. Chinese astronomers
+        kept extensive records for centuries, including illustrations of characteristic types of
+        comet tails, times of cometary appearances and disappearances, and celestial positions. These
+        historic comet annals have proven to be a valuable resource for later astronomers. We now
+        know that comets are leftovers from the dawn of our solar system around 4.6 billion years
+        ago, and consist mostly of ice coated with dark organic material. They have been referred
+        to as "dirty snowballs." They may yield important clues about the formation of our solar
+        system. Comets may have brought water and organic compounds, the building blocks of life,
+        to the early Earth and other parts of the solar system.
+    </string>
+    <string name="comet_text_box_2">Where Do Comets Come From?</string>
+    <string name="comet_text_box_3">
+       As theorized by astronomer Gerard Kuiper in 1951, a disc-like belt of icy bodies exists
+        beyond Neptune, where a population of dark comets orbits the Sun in the realm of Pluto.
+        These icy objects, occasionally pushed by gravity into orbits bringing them closer to the
+        Sun, become the so-called short-period comets. Taking less than 200 years to orbit the Sun,
+        in many cases their appearance is predictable because they have passed by before. Less
+        predictable are long-period comets, many of which arrive from a region called the Oort
+        Cloud about 100,000 astronomical units (that is, about 100,000 times the distance between
+        Earth and the Sun) from the Sun. These Oort Cloud comets can take as long as 30 million
+        years to complete one trip around the Sun. Each comet has a tiny frozen part, called a
+        nucleus, often no larger than a few kilometers across. The nucleus contains icy chunks,
+        frozen gases with bits of embedded dust. A comet warms up as it nears the Sun and develops
+        an atmosphere, or coma. The Sun's heat causes the comet's ices to change to gases so the
+        coma gets larger. The coma may extend hundreds of thousands of kilometers. The pressure of
+        sunlight and high-speed solar particles (solar wind) can blow the coma dust and gas away
+        from the Sun, sometimes forming a long, bright tail. Comets actually have two tails―a dust
+        tail and an ion (gas) tail. Most comets travel a safe distance from the Sun―comet Halley
+        comes no closer than 89 million kilometers (55 million miles). However, some comets, called
+        sungrazers, crash straight into the Sun or get so close that they break up and evaporate.
+    </string>
+    <string name="comet_text_box_4">Exploration of Comets</string>
+    <string name="comet_text_box_5">
+        Scientists have long wanted to study comets in some detail, tantalized by the few 1986
+        images of comet Halleys nucleus. NASAs Deep Space 1 spacecraft flew by comet Borrelly
+        in 2001 and photographed its nucleus, which is about 8 kilometers (5 miles) long. NASAs
+        Stardust mission successfully flew within 236 kilometers (147 miles) of the nucleus of
+        Comet Wild 2 in January 2004, collecting cometary particles and interstellar dust for a
+        sample return to Earth in 2006. The photographs taken during this close flyby of a comet
+        nucleus show jets of dust and a rugged, textured surface. Analysis of the Stardust samples
+        suggests that comets may be more complex than originally thought. Minerals formed near the
+        Sun or other stars were found in the samples, suggesting that materials from the inner
+        regions of the solar system traveled to the outer regions where comets formed. Another NASA
+        mission, Deep Impact, consisted of a flyby spacecraft and an impactor. In July 2005, the
+        impactor was released into the path of the nucleus of comet Tempel 1 in a planned collision,
+        which vaporized the impactor and ejected massive amounts of fine, powdery material from
+        beneath the comet's surface. En route to impact, the impactor camera imaged the comet in
+        increasing detail. Two cameras and a spectrometer on the flyby spacecraft recorded the
+        dramatic excavation that helped determine the interior composition and structure of the
+        nucleus. After their successful primary missions, the Deep Impact spacecraft and the Stardust
+        spacecraft were still healthy and were retargeted for additional cometary flybys.
+        Deep Impact's mission, EPOXI (Extrasolar Planet Observation and Deep Impact Extended
+        Investigation), comprised two projects: the Deep Impact Extended Investigation (DIXI),
+        which encountered comet Hartley 2 in November 2010, and the Extrasolar Planet Observation
+        and Characterization (EPOCh) investigation, which searched for Earth-size planets around
+        other stars on route to Hartley 2. NASA returned to comet Tempel 1 in 2011, when the
+        Stardust New Exploration of Tempel 1 (NExT) mission observed changes in the nucleus since
+        Deep Impact's 2005 encounter.
+    </string>
+    <string name="comet_text_box_6">How Comets Get Their Names</string>
+    <string name="comet_text_box_7">
+        Comet naming can be complicated. Comets are generally named for their discoverer—either a
+        person or a spacecraft. This International Astronomical Union guideline was developed only
+        in the last century. For example, comet Shoemaker-Levy 9 was so named because it was the
+        ninth short-periodic comet discovered by Eugene and Carolyn Shoemaker and David Levy. Since
+        spacecraft are very effective at spotting comets many comets have LINEAR, SOHO or WISE in
+        their names.
+    </string>
+
+    <!-- asteroids information -->
+    <string name="asteroids">Asteroids</string>
+    <string name="asteroids_text_box_1">
+       Asteroids, sometimes called minor planets, are rocky remnants left over from the early
+        formation of our solar system about 4.6 billion years ago. Most of this ancient space
+        rubble can be found orbiting the sun between Mars and Jupiter within the main asteroid belt.
+        Asteroids range in size from Vesta—the largest at about 329 miles (530 kilometers) in
+        diameter - to bodies that are less than 33 feet (10 meters) across. The total mass of all
+        the asteroids combined is less than that of Earths Moon. Most asteroids are irregularly
+        shaped, though a few are nearly spherical, and they are often pitted or cratered. As they
+        revolve around the sun in elliptical orbits, the asteroids also rotate, sometimes quite
+        erratically, tumbling as they go. More than 150 asteroids are known to have a small
+        companion moon (some have two moons). There are also binary (double) asteroids, in which
+        two rocky bodies of roughly equal size orbit each other, as well as triple asteroid systems
+    </string>
+    <string name="asteroids_text_box_2">Composition</string>
+    <string name="asteroids_text_box_3">
+       The three broad composition classes of asteroids are C-, S-, and M-types. The C-type
+        (chondrite) asteroids are most common, probably consist of clay and silicate rocks, and
+        are dark in appearance. They are among the most ancient objects in the solar system. The
+        S-types ("stony") are made up of silicate materials and nickel-iron. The M-types are
+        metallic (nickel-iron). The asteroids compositional differences are related to how far from
+        the sun they formed. Some experienced high temperatures after they formed and partly melted,
+        with iron sinking to the center and forcing basaltic (volcanic) lava to the surface.
+        Jupiters massive gravity and occasional close encounters with Mars or another object change
+        the asteroids orbits, knocking them out of the main belt and hurling them into space in
+        all directions across the orbits of the other planets. Stray asteroids and asteroid fragments
+        slammed into Earth and the other planets in the past, playing a major role in altering the
+        geological history of the planets and in the evolution of life on Earth. Scientists
+        continuously monitor Earth-crossing asteroids, whose paths intersect Earth's orbit, and
+        near-Earth asteroids that approach Earth's orbital distance to within about 45 million
+        kilometers (28 million miles) and may pose an impact danger. Radar is a valuable tool in
+        detecting and monitoring potential impact hazards. By reflecting transmitted signals off
+        objects, images and other information can be derived from the echoes. Scientists can learn
+        a great deal about an asteroid's orbit, rotation, size, shape, and metal concentration.
+    </string>
+    <string name="asteroids_text_box_4">Asteroid Classifications</string>
+    <string name="asteroids_text_box_5">
+        Main Asteroid Belt: The majority of known asteroids orbit within the asteroid belt between
+        Mars and Jupiter, generally with not very elongated orbits. The belt is estimated to contain
+        between 1.1 and 1.9 million asteroids larger than 1 kilometer (0.6 mile) in diameter, and
+        millions of smaller ones. Early in the history of the solar system, the gravity of newly
+        formed Jupiter brought an end to the formation of planetary bodies in this region and caused
+        the small bodies to collide with one another, fragmenting them into the asteroids we observe
+        today. Trojans: These asteroids share an orbit with a larger planet, but do not collide
+        with it because they gather around two special places in the orbit (called the L4 and L5
+        Lagrangian points). There, the gravitational pull from the sun and the planet are balanced
+        by a trojan's tendency to otherwise fly out of the orbit. The Jupiter trojans form the most
+        significant population of trojan asteroids. It is thought that they are as numerous as the
+        asteroids in the asteroid belt. There are Mars and Neptune trojans, and NASA announced the
+        discovery of an Earth trojan in 2011. Near-Earth Asteroids: These objects have orbits that
+        pass close by that of Earth. Asteroids that actually cross Earth's orbital path are known
+        as Earth-crossers. As of June 19, 2013, 10,003 near-Earth asteroids are known and the number
+        over 1 kilometer in diameter is thought to be 861, with 1,409 classified as potentially
+        hazardous asteroids - those that could pose a threat to Earth.
+    </string>
+    <string name="asteroids_text_box_6">How Asteroids Get Their Names</string>
+    <string name="asteroids_text_box_7">
+        The International Astronomical Unions Committee on Small Body Nomenclature.is a little less
+        strict when it comes to naming asteroids than other IAU naming committees. So out there
+        orbiting the sun we have giant space rocks named for Mr. Spock (a cat named for the character
+        of "Star Trek" fame), rock musician Frank Zappa, beloved teachers such as Florida’s
+        Cynthia L. Reyes, and more somber tributes such as the seven asteroids named for the crew
+        of the Space Shuttle Columbia killed in 2003. Asteroids are also named for places and a
+        variety of other things. (The IAU discourages naming asteroids for pets, so Mr. Spock
+        stands alone). Asteroids are also given a number, for example (99942) Apophis. The Harvard
+        Smithsonian Center for Astrophysics keeps a fairly current list of asteroid names.
+    </string>
+    <!-- pluto information -->
+    <string name="pluto">Pluto</string>
+    <string name="pluto_text_box_1">
+       Pluto is a complex and mysterious world with mountains, valleys, plains, craters, and maybe
+        glaciers. Discovered in 1930, Pluto was long considered our solar systems ninth planet.
+        But after the discovery of similar intriguing worlds deeper in the distant Kuiper Belt, icy
+        Pluto was reclassified as a dwarf planet. Pluto is orbited by five known moons, the largest
+        of which is Charon. Charon is about half the size of Pluto itself, making it the largest
+        satellite relative to the planet it orbits in our solar system. Pluto and Charon are often
+        referred to as a "double planet." Pluto is named after the Roman god of the underworld.
+    </string>
+    <string name="pluto_text_box_2">Size and Distance</string>
+    <string name="pluto_text_box_3">
+       With a radius of 715 miles (1,151 kilometers), Pluto is about 1/6 the width of Earth. If
+        Earth was the size of a nickel, Pluto would be about as big as a popcorn kernel. From an
+        average distance of 3.7 billion miles (5.9 billion kilometers), Pluto is 39 astronomical
+        units away from the sun. One astronomical unit (abbreviated as AU), is the distance from
+        the sun to Earth. From this distance, it takes sunlight 5.5 hours to travel from the sun
+        to Pluto. If you were to stand on the surface of Pluto at noon, the sun would be 1/900 the
+        brightness it is here on Earth, or about 300 times as bright as our full moon. There is a
+        moment each day near sunset here on Earth when the light is the same brightness as midday
+        on Pluto. Find out when you can experience "Pluto time" where you live.
+    </string>
+    <string name="pluto_text_box_4">Orbit and Rotation</string>
+    <string name="pluto_text_box_5">
+        Plutos orbit around the sun is unusual compared to the planets: its both elliptical and
+        tilted. Plutos 248-year-long, oval-shaped orbit can take it as far as 49.3 astronomical
+        units (AU) from the sun, and as close as 30 AU. (One AU is the mean distance between Earth
+        and the sun: about 93 million miles or 150 million kilometers.) But on average, Pluto is 3.7
+        billion miles (5.9 billion kilometers) away from the sun, or 39 AU. From 1979 to 1999,
+        Pluto was near perihelion, when it is closest to the sun. During this time, Pluto was
+        actually closer to the sun than Neptune. One day on Pluto takes about 153 hours. Its axis
+        of rotation is tilted 57 degrees with respect to the plane of its orbit around the sun, so
+        it spins almost on its side. Pluto also exhibits a retrograde rotation; spinning from east
+        to west like Venus and Uranus.
+    </string>
+    <string name="pluto_text_box_6">Formation</string>
+    <string name="pluto_text_box_7">
+        Dwarf planet Pluto is a member of a group of objects that orbit in a disc-like zone beyond
+        the orbit of Neptune called the Kuiper Belt. This distant realm is populated with thousands
+        of miniature icy worlds, which formed early in the history of our solar system about 4.5
+        billion years ago. These icy, rocky bodies are called Kuiper Belt objects, transneptunian
+        objects, or plutoids.
+    </string>
 </resources>

@@ -131,6 +131,8 @@ public class PlanetsFragment extends Fragment {
                 int item6 = page.getPlanetText5();
                 int item7 = page.getPlanetText6();
                 int item8 = page.getPlanetText7();
+                // get correct picture
+                int item9 = page.getImageID();
 
                 // pass the item name and text string id's to the new activity.
                 Intent details = new Intent(getActivity(), Details.class);
@@ -142,6 +144,7 @@ public class PlanetsFragment extends Fragment {
                 details.putExtra("text6",item6);
                 details.putExtra("text7",item7);
                 details.putExtra("text8",item8);
+                details.putExtra("text9",item9);
                 startActivity(details);
             }
         });
