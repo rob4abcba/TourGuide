@@ -1,34 +1,25 @@
 package example.android.tourguide;
-
-
 import android.content.Intent;
 import android.os.Bundle;
-
 import android.support.v4.app.Fragment;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.AdapterView;
 import android.widget.ListView;
-import android.widget.TextView;
-
 import java.util.ArrayList;
-
 /**
  * A simple {@link Fragment} subclass.
+ * built by james heath 7/18/2018
+ * for the udacity tour guide app project
  */
 public class MoonsFragment extends Fragment {
-
-
     public MoonsFragment() {
         // Required empty public constructor
     }
-
-
     @Override
     public View onCreateView(LayoutInflater inflater, ViewGroup container,
                              Bundle savedInstanceState) {
-
         View rootView = inflater.inflate(R.layout.entry_list, container, false);
         // build the arraylist for moons
         final ArrayList<ItemObject> planet = new ArrayList<>();
@@ -172,16 +163,13 @@ public class MoonsFragment extends Fragment {
                 R.string.saturn_moon_triton_text_box_5,
                 R.string.saturn_moon_triton_text_box_6,
                 R.string.saturn_moon_triton_text_box_7));
-
         DisplayAdaptor displayAdapter = new DisplayAdaptor (getActivity(), planet);
         ListView listView = rootView.findViewById(R.id.list);
         listView.setAdapter(displayAdapter);
-
         // on click listener for the list items
         listView.setOnItemClickListener(new AdapterView.OnItemClickListener() {
             @Override
             public void onItemClick(AdapterView<?> adapterView, View view, int position, long l) {
-
                 // find the item clicked on and get its name
                 ItemObject page = planet.get(position);
                 String item1 = page.getPlanetName();
@@ -195,7 +183,6 @@ public class MoonsFragment extends Fragment {
                 int item8 = page.getPlanetText7();
                 // get correct picture
                 int item9 = page.getImageID();
-
                 // pass the item name and text string id's to the new activity.
                 Intent details = new Intent(getActivity(), Details.class);
                 details.putExtra("key",item1);
@@ -210,9 +197,6 @@ public class MoonsFragment extends Fragment {
                 startActivity(details);
             }
         });
-
         return rootView;
-
     }
-
 }

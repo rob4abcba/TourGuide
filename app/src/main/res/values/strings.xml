@@ -7,6 +7,7 @@
     <string name="tab3">Other objects</string>
     <!-- sun information -->
     <string name="sun">Sun</string>
+    <!-- sun information will be added soon -->
     <!-- mercury information -->
     <string name="mercury">Mercury</string>
     <string name="mercury_text_box_1">
@@ -71,7 +72,7 @@
         Venus rotation and orbit are unusual in several ways. Venus is one of just two planets that
         rotate from east to west. Only Venus and Uranus have this "backwards" rotation. It completes
         one rotation in 243 Earth days — the longest day of any planet in our solar system, even
-        longer than a whole year on Venus. But the Sun doesnt rise and set each "day" on Venus
+        longer than a whole year on Venus. But the Sun does not rise and set each "day" on Venus
         like it does on most other planets. On Venus, one day-night cycle takes 117 Earth days
         because Venus rotates in the direction opposite of its orbital revolution around the Sun.
         Venus makes a complete orbit around the Sun (a year in Venusian time) in 225 Earth days or
@@ -342,10 +343,8 @@
         Uranus, Neptune likely formed closer to the Sun and moved to the outer solar system about
         4 billion years ago.
     </string>
-
     <!-- end of planets -->
     <!-- start of moons -->
-
     <!-- earths moon information -->
     <string name="earth_moon">Moon</string>
     <string name="earth_moon_text_box_1">
@@ -390,7 +389,6 @@
         was in a molten state, but within about 100 million years, most of the global "magma ocean"
         had crystallized, with less-dense rocks floating upward and eventually forming the lunar crust.
     </string>
-
     <!-- mars moon deimos information -->
     <string name="mars_moon_deimos">Deimos</string>
     <string name="mars_moon_deimos_text_box_1">
@@ -432,7 +430,6 @@
     </string>
     <string name="mars_moon_deimos_text_box_6">none</string>
     <string name="mars_moon_deimos_text_box_7">none</string>
-
     <!-- mars moon phobos information -->
     <string name="mars_moon_phobos">phobos</string>
     <string name="mars_moon_phobos_text_box_1">
@@ -474,7 +471,6 @@
     </string>
     <string name="mars_moon_phobos_text_box_6">none</string>
     <string name="mars_moon_phobos_text_box_7">none</string>
-
     <!-- jupiter moon io information -->
     <string name="jupiter_moon_io">Io</string>
     <string name="jupiter_moon_io_text_box_1">
@@ -510,7 +506,6 @@
         moons all keep the same face towards Jupiter as they orbit, meaning that each moon turns
         once on its axis for every orbit around Jupiter.
     </string>
-
     <!-- jupiter moon Europa information -->
     <string name="jupiter_moon_Europa">Europa</string>
     <string name="jupiter_moon_Europa_text_box_1">
@@ -546,7 +541,6 @@
         moons all keep the same face towards Jupiter as they orbit, meaning that each moon turns
         once on its axis for every orbit around Jupiter.
     </string>
-
     <!-- jupiter moon Ganymede information -->
     <string name="jupiter_moon_Ganymede">Ganymede</string>
     <string name="jupiter_moon_Ganymede_text_box_1">
@@ -579,7 +573,6 @@
         moons all keep the same face towards Jupiter as they orbit, meaning that each moon turns
         once on its axis for every orbit around Jupiter.
     </string>
-
     <!-- jupiter Callisto moon information -->
     <string name="jupiter_moon_Callisto">Callisto</string>
     <string name="jupiter_moon_Callisto_text_box_1">
@@ -704,7 +697,6 @@
         Cassini’s data, they will likely solve more mysteries about Saturn’s menagerie of moons,
         and they will almost certainly find more mysteries that need solving.
     </string>
-
     <!-- saturn moon laptus information -->
     <string name="saturn_moon_laptus">Laptus</string>
     <string name="saturn_moon_laptus_text_box_1">
@@ -796,7 +788,6 @@
         Cassini’s data, they will likely solve more mysteries about Saturn’s menagerie of moons,
         and they will almost certainly find more mysteries that need solving.
     </string>
-
     <!-- saturn moon mimas information -->
     <string name="saturn_moon_mimas">Mimas</string>
     <string name="saturn_moon_mimas_text_box_1">
@@ -888,8 +879,6 @@
         Cassini’s data, they will likely solve more mysteries about Saturn’s menagerie of moons,
         and they will almost certainly find more mysteries that need solving.
     </string>
-
-
     <!-- saturn moon rhea information -->
     <string name="saturn_moon_rhea">Rhea</string>
     <string name="saturn_moon_rhea_text_box_1">
@@ -981,7 +970,6 @@
         Cassini’s data, they will likely solve more mysteries about Saturn’s menagerie of moons,
         and they will almost certainly find more mysteries that need solving.
     </string>
-
     <!-- saturn moon thtys information -->
     <string name="saturn_moon_thtys">Thtys</string>
     <string name="saturn_moon_thtys_text_box_1">
@@ -1073,8 +1061,6 @@
         Cassini’s data, they will likely solve more mysteries about Saturn’s menagerie of moons,
         and they will almost certainly find more mysteries that need solving.
     </string>
-
-
     <!-- saturn moon triton information -->
     <string name="saturn_moon_triton">Triton</string>
     <string name="saturn_moon_triton_text_box_1">
@@ -1166,7 +1152,6 @@
         Cassini’s data, they will likely solve more mysteries about Saturn’s menagerie of moons,
         and they will almost certainly find more mysteries that need solving.
     </string>
-
     <!-- saturn moon enceladus information -->
     <string name="saturn_moon_enceladus">Enceladus</string>
     <string name="saturn_moon_enceladus_text_box_1">
@@ -1258,7 +1243,6 @@
         Cassini’s data, they will likely solve more mysteries about Saturn’s menagerie of moons,
         and they will almost certainly find more mysteries that need solving.
     </string>
-
     <!-- comet information -->
     <string name="comet">Comets</string>
     <string name="comet_text_box_1">
@@ -1331,7 +1315,6 @@
         spacecraft are very effective at spotting comets many comets have LINEAR, SOHO or WISE in
         their names.
     </string>
-
     <!-- asteroids information -->
     <string name="asteroids">Asteroids</string>
     <string name="asteroids_text_box_1">

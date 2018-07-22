@@ -1,11 +1,10 @@
 package example.android.tourguide;
-
 /**
- * Created by james on 7/15/2018.
+ * Created by james on 7/15/2018
+ * object template for array list.
+ * for udacity tour guide app
  */
-
 public class ItemObject {
-
     // mPlanetNames to store the name of the planet/moon/object
     private String mPlanetName;
     // mPhotoID to store the image id ref
@@ -18,12 +17,9 @@ public class ItemObject {
     private int mTextBoxInfo5;
     private int mTextBoxInfo6;
     private int mTextBoxInfo7;
-
     public ItemObject (String name, int imageID, int textInfo1, int textInfo2,int textInfo3,int textInfo4,int textInfo5,int textInfo6,int textInfo7) {
-
         mPlanetName = name;
         mImageID = imageID;
-
         mTextBoxInfo1 = textInfo1;
         mTextBoxInfo2 = textInfo2;
         mTextBoxInfo3 = textInfo3;
@@ -31,12 +27,9 @@ public class ItemObject {
         mTextBoxInfo5 = textInfo5;
         mTextBoxInfo6 = textInfo6;
         mTextBoxInfo7 = textInfo7;
-
     }
-
     public String getPlanetName () {return mPlanetName;}
     public int getImageID(){return mImageID;}
-
     public int getPlanetText1 () {return mTextBoxInfo1;}
     public int getPlanetText2 () {return mTextBoxInfo2;}
     public int getPlanetText3 () {return mTextBoxInfo3;}

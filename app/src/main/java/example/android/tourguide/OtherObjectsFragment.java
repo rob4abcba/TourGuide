@@ -1,6 +1,4 @@
 package example.android.tourguide;
-
-
 import android.content.Intent;
 import android.os.Bundle;
 import android.support.v4.app.Fragment;
@@ -10,24 +8,20 @@ import android.view.ViewGroup;
 import android.widget.AdapterView;
 import android.widget.ListView;
 import java.util.ArrayList;
-
 /**
  * A simple {@link Fragment} subclass.
+ * created by james heath 7/18/2018
+ * for the udacity tour guide app project.
  */
 public class OtherObjectsFragment extends Fragment {
-
-
     public OtherObjectsFragment() {
         // Required empty public constructor
     }
-
-
     @Override
     public View onCreateView(LayoutInflater inflater, ViewGroup container,
                              Bundle savedInstanceState) {
-
         View rootView = inflater.inflate(R.layout.entry_list, container, false);
-        // build the arraylist for planets
+        // build the arraylist for other space objects
         final ArrayList<ItemObject> planet = new ArrayList<>();
         planet.add(new ItemObject(
                 getString(R.string.pluto),
@@ -59,17 +53,13 @@ public class OtherObjectsFragment extends Fragment {
                 R.string.comet_text_box_5,
                 R.string.comet_text_box_6,
                 R.string.comet_text_box_7));
-
-
         DisplayAdaptor displayAdapter = new DisplayAdaptor (getActivity(), planet);
         ListView listView = rootView.findViewById(R.id.list);
         listView.setAdapter(displayAdapter);
-
         // on click listener for the list items
         listView.setOnItemClickListener(new AdapterView.OnItemClickListener() {
             @Override
             public void onItemClick(AdapterView<?> adapterView, View view, int position, long l) {
-
                 // find the item clicked on and get its name
                 ItemObject page = planet.get(position);
                 String item1 = page.getPlanetName();
@@ -83,7 +73,6 @@ public class OtherObjectsFragment extends Fragment {
                 int item8 = page.getPlanetText7();
                 // get correct picture
                 int item9 = page.getImageID();
-
                 // pass the item name and text string id's to the new activity.
                 Intent details = new Intent(getActivity(), Details.class);
                 details.putExtra("key",item1);
@@ -98,10 +87,6 @@ public class OtherObjectsFragment extends Fragment {
                 startActivity(details);
             }
         });
-
         return rootView;
-
     }
-
-
 }
