@@ -1619,6 +1619,7 @@
         global cooperation – one that enables a multinational partnership and advances shared goals
         in space exploration.
     </string>
+    <string name="website">you can find more at NASA home page https://solarsystem.nasa.gov/planets/overview/</string>
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>
