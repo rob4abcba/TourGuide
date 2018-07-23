@@ -24,6 +24,16 @@ public class PlanetsFragment extends Fragment {
         // build the arraylist for planets
         final ArrayList<ItemObject> planet = new ArrayList<>();
         planet.add(new ItemObject(
+                getString(R.string.sun),
+                R.drawable.sun,
+                R.string.sun_text_box_1,
+                R.string.sun_text_box_2,
+                R.string.sun_text_box_3,
+                R.string.sun_text_box_4,
+                R.string.sun_text_box_5,
+                R.string.sun_text_box_6,
+                R.string.sun_text_box_7));
+        planet.add(new ItemObject(
                 getString(R.string.mercury),
                 R.drawable.mercury,
                 R.string.mercury_text_box_1,
@@ -103,6 +113,17 @@ public class PlanetsFragment extends Fragment {
                 R.string.neptune_text_box_5,
                 R.string.neptune_text_box_6,
                 R.string.neptune_text_box_7));
+        planet.add(new ItemObject(
+                getString(R.string.pluto),
+                R.drawable.pluto,
+                R.string.pluto_text_box_1,
+                R.string.pluto_text_box_2,
+                R.string.pluto_text_box_3,
+                R.string.pluto_text_box_4,
+                R.string.pluto_text_box_5,
+                R.string.pluto_text_box_6,
+                R.string.pluto_text_box_7));
+
         DisplayAdaptor displayAdapter = new DisplayAdaptor (getActivity(), planet);
         ListView listView = rootView.findViewById(R.id.list);
         listView.setAdapter(displayAdapter);

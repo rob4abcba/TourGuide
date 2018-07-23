@@ -1,11 +1,11 @@
 package example.android.tourguide;
-/**
- * Created by james on 7/15/2018.
- * built for udacity tour guide app
- */
 import android.content.Context;
 import android.support.v4.app.Fragment;
 import android.support.v4.app.FragmentStatePagerAdapter;
+ /**
+ * Created by james on 7/15/2018.
+ * built for udacity tour guide app
+ */
 public class PageAdaptor extends FragmentStatePagerAdapter {
     private Context mContext;
     public PageAdaptor(android.support.v4.app.FragmentManager fm,  Context context) {
@@ -23,15 +23,18 @@ public class PageAdaptor extends FragmentStatePagerAdapter {
                 MoonsFragment tab2 = new MoonsFragment();
                 return tab2;
             case 2:
-                OtherObjectsFragment tab3 = new OtherObjectsFragment();
+                ManMadeFragment tab3 = new ManMadeFragment();
                 return tab3;
+            case 3:
+                DeepSpaceFragment tab4 = new DeepSpaceFragment();
+                return tab4;
             default:
                 return null;
         }
     }
     @Override
     public int getCount() {
-        return 3;
+        return 4;
     }
     @Override
     public CharSequence getPageTitle(int position) {
@@ -40,7 +43,9 @@ public class PageAdaptor extends FragmentStatePagerAdapter {
             return mContext.getString(R.string.tab1);
         } else if (position == 1) {
             return mContext.getString(R.string.tab2);
+        } else if (position == 2) {
+            return mContext.getString(R.string.tab3);
         } else {
-            return mContext.getString(R.string.tab3);}
+            return mContext.getString(R.string.tab4);}
     }
 }

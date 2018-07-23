@@ -8,7 +8,7 @@ import android.view.ViewGroup;
 import android.widget.AdapterView;
 import android.widget.ListView;
 import java.util.ArrayList;
-/**
+ /**
  * A simple {@link Fragment} subclass.
  * built by james heath 7/18/2018
  * for the udacity tour guide app project
@@ -41,18 +41,16 @@ public class MoonsFragment extends Fragment {
                 R.string.mars_moon_deimos_text_box_3,
                 R.string.mars_moon_deimos_text_box_4,
                 R.string.mars_moon_deimos_text_box_5,
-                R.string.mars_moon_deimos_text_box_6,
-                R.string.mars_moon_deimos_text_box_7));
+                0,0));
         planet.add(new ItemObject(
                 getString(R.string.mars_moon_phobos),
                 R.drawable.mars_moon_phobos,
-                R.string.earth_text_box_1,
-                R.string.earth_text_box_2,
-                R.string.earth_text_box_3,
-                R.string.earth_text_box_4,
-                R.string.earth_text_box_5,
-                R.string.earth_text_box_6,
-                R.string.earth_text_box_7));
+                R.string.mars_moon_phobos_text_box_1,
+                R.string.mars_moon_phobos_text_box_2,
+                R.string.mars_moon_phobos_text_box_3,
+                R.string.mars_moon_phobos_text_box_4,
+                R.string.mars_moon_phobos_text_box_5,
+                0,0));
         planet.add(new ItemObject(
                 getString(R.string.jupiter_moon_Callisto),
                 R.drawable.jupitor_moon_callisto,

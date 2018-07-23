@@ -10,49 +10,46 @@ import android.widget.ListView;
 import java.util.ArrayList;
 /**
  * A simple {@link Fragment} subclass.
- * created by james heath 7/18/2018
- * for the udacity tour guide app project.
  */
-public class OtherObjectsFragment extends Fragment {
-    public OtherObjectsFragment() {
+public class DeepSpaceFragment extends Fragment {
+    public DeepSpaceFragment() {
         // Required empty public constructor
     }
     @Override
     public View onCreateView(LayoutInflater inflater, ViewGroup container,
                              Bundle savedInstanceState) {
         View rootView = inflater.inflate(R.layout.entry_list, container, false);
-        // build the arraylist for other space objects
+        // build the arraylist for planets
         final ArrayList<ItemObject> planet = new ArrayList<>();
         planet.add(new ItemObject(
-                getString(R.string.pluto),
-                R.drawable.pluto,
-                R.string.pluto_text_box_1,
-                R.string.pluto_text_box_2,
-                R.string.pluto_text_box_3,
-                R.string.pluto_text_box_4,
-                R.string.pluto_text_box_5,
-                R.string.pluto_text_box_6,
-                R.string.pluto_text_box_7));
+                getString(R.string.kepler_452b),
+                R.drawable.kepler_452b,
+                R.string.kepler_452b_text_box_1,
+                R.string.kepler_452b_text_box_2,
+                R.string.kepler_452b_text_box_3,
+                R.string.kepler_452b_text_box_4,
+                R.string.kepler_452b_text_box_5,
+                0,0));
         planet.add(new ItemObject(
-                getString(R.string.asteroids),
-                R.drawable.astroid,
-                R.string.asteroids_text_box_1,
-                R.string.asteroids_text_box_2,
-                R.string.asteroids_text_box_3,
-                R.string.asteroids_text_box_4,
-                R.string.asteroids_text_box_5,
-                R.string.asteroids_text_box_6,
-                R.string.asteroids_text_box_7));
+                getString(R.string.black_holes),
+                R.drawable.black_hole,
+                R.string.black_holes_text_box_1,
+                R.string.black_holes_text_box_2,
+                R.string.black_holes_text_box_3,
+                R.string.black_holes_text_box_4,
+                R.string.black_holes_text_box_5,
+                R.string.black_holes_text_box_6,
+                R.string.black_holes_text_box_7));
         planet.add(new ItemObject(
-                getString(R.string.comet),
-                R.drawable.comet,
-                R.string.comet_text_box_1,
-                R.string.comet_text_box_2,
-                R.string.comet_text_box_3,
-                R.string.comet_text_box_4,
-                R.string.comet_text_box_5,
-                R.string.comet_text_box_6,
-                R.string.comet_text_box_7));
+                getString(R.string.pillars),
+                R.drawable.pillars,
+                R.string.pillars_text_box_1,
+                0,0,0,0,0,0));
+        planet.add(new ItemObject(
+                getString(R.string.lagoon_nebula),
+                R.drawable.lagoon_nebula,
+                R.string.lagoon_nebula_text_box_1,
+                0,0,0,0,0,0));
         DisplayAdaptor displayAdapter = new DisplayAdaptor (getActivity(), planet);
         ListView listView = rootView.findViewById(R.id.list);
         listView.setAdapter(displayAdapter);
