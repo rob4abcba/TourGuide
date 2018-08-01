@@ -14,7 +14,7 @@
         android:id="@+id/item_name"
         style="@style/list_item_text"
         android:layout_width="match_parent"
-        android:layout_height="30sp"
+        android:layout_height="30dp"
         android:textStyle="bold" />
 
 </LinearLayout>

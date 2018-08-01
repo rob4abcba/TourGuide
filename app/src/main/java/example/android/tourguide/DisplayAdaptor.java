@@ -13,8 +13,8 @@ import java.util.ArrayList;
  * udacity tour guide app
  */
 public class DisplayAdaptor extends ArrayAdapter<ItemObject> {
-    public DisplayAdaptor(Activity context, ArrayList<ItemObject> parks) {
-        super(context, 0, parks);
+    public DisplayAdaptor(Activity context, ArrayList<ItemObject> planets) {
+        super(context, 0, planets);
     }
     @Override
     public View getView(int position, View convertView, ViewGroup parent) {
