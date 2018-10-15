@@ -113,7 +113,7 @@ public class MoonsFragment extends Fragment {
                 R.string.saturn_moon_hyperion_text_box_7));
         planet.add(new ItemObject(
                 getString(R.string.saturn_moon_laptus),
-                R.drawable.saturn_moon_laptus,
+                R.drawable.saturn_moon_lapetus,
                 R.string.saturn_moon_laptus_text_box_1,
                 R.string.saturn_moon_laptus_text_box_2,
                 R.string.saturn_moon_laptus_text_box_3,
@@ -152,15 +152,25 @@ public class MoonsFragment extends Fragment {
                 R.string.saturn_moon_thtys_text_box_6,
                 R.string.saturn_moon_thtys_text_box_7));
         planet.add(new ItemObject(
-                getString(R.string.saturn_moon_triton),
-                R.drawable.saturn_moon_triton,
-                R.string.saturn_moon_triton_text_box_1,
-                R.string.saturn_moon_triton_text_box_2,
-                R.string.saturn_moon_triton_text_box_3,
-                R.string.saturn_moon_triton_text_box_4,
-                R.string.saturn_moon_triton_text_box_5,
-                R.string.saturn_moon_triton_text_box_6,
-                R.string.saturn_moon_triton_text_box_7));
+                getString(R.string.saturn_moon_Titan),
+                R.drawable.saturn_moon_titan,
+                R.string.saturn_moon_Titan_text_box_1,
+                R.string.saturn_moon_Titan_text_box_2,
+                R.string.saturn_moon_Titan_text_box_3,
+                R.string.saturn_moon_Titan_text_box_4,
+                R.string.saturn_moon_Titan_text_box_5,
+                R.string.saturn_moon_Titan_text_box_6,
+                R.string.saturn_moon_Titan_text_box_7));
+        planet.add(new ItemObject(
+                getString(R.string.neptune_moon_triton),
+                R.drawable.neptune_moon_triton,
+                R.string.neptune_moon_triton_text_box_1,
+                R.string.neptune_moon_triton_text_box_2,
+                R.string.neptune_moon_triton_text_box_3,
+                R.string.neptune_moon_triton_text_box_4,
+                R.string.neptune_moon_triton_text_box_5,
+                R.string.neptune_moon_triton_text_box_6,
+                R.string.neptune_moon_triton_text_box_7));
         DisplayAdaptor displayAdapter = new DisplayAdaptor (getActivity(), planet);
         ListView listView = rootView.findViewById(R.id.list);
         listView.setAdapter(displayAdapter);

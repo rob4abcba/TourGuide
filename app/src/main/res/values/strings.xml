@@ -1102,9 +1102,9 @@
         Cassini’s data, they will likely solve more mysteries about Saturn’s menagerie of moons,
         and they will almost certainly find more mysteries that need solving.
     </string>
-    <!-- saturn moon triton information -->
-    <string name="saturn_moon_triton">Triton</string>
-    <string name="saturn_moon_triton_text_box_1">
+    <!-- saturn moon Titan information -->
+    <string name="saturn_moon_Titan">Titan</string>
+    <string name="saturn_moon_Titan_text_box_1">
         The Voyager and Pioneer flybys of the 1970s and 1980s provided rough sketches of Saturn’s
         moons. But during its many years in Saturn orbit, NASA’s Cassini spacecraft discovered
         previously unknown moons, solved mysteries about known ones, studied their interactions
@@ -1120,8 +1120,8 @@
         before. Cassini looked, listened, sniffed and even tasted Saturn’s moons, and what it
         learned about them is nothing less than extraordinary.
     </string>
-    <string name="saturn_moon_triton_text_box_2">Habitability Outside the Habitability Zone</string>
-    <string name="saturn_moon_triton_text_box_3">
+    <string name="saturn_moon_Titan_text_box_2">Habitability Outside the Habitability Zone</string>
+    <string name="saturn_moon_Titan_text_box_3">
         Haze-enshrouded Titan is Saturn’s largest moon and the solar system’s second-largest, and
         an all-around exceptional place. Titan is the only known world other than Earth where any
         sort of liquid collects on its surface.
@@ -1136,8 +1136,8 @@
         also found evidence of a global (or at least regional) liquid water ocean below its frigid
         surface, but Titan isn’t the only Saturnian moon that boasts of a subsurface sea.
     </string>
-    <string name="saturn_moon_triton_text_box_4">Ocean Moon</string>
-    <string name="saturn_moon_triton_text_box_5">
+    <string name="saturn_moon_Titan_text_box_4">Ocean Moon</string>
+    <string name="saturn_moon_Titan_text_box_5">
         Cassini scientists were astonished when they found a plume spraying water vapor, icy
         particles and simple organic materials into space from the south polar region of Enceladus.
         Scientists determined that the jets are the source of material for Saturn’s E-Ring. The
@@ -1158,8 +1158,8 @@
         for life as we know it,” she said. “It’s all there.” Even if Enceladus isn’t home to even
         simple organisms, the presence of the necessary conditions is itself a remarkable finding.
     </string>
-    <string name="saturn_moon_triton_text_box_6">Moon Mysteries Managed</string>
-    <string name="saturn_moon_triton_text_box_7">
+    <string name="saturn_moon_Titan_text_box_6">Moon Mysteries Managed</string>
+    <string name="saturn_moon_Titan_text_box_7">
         Enceladus and Titan get a lot of attention, but the Cassini mission also provided countless
         insights about dozens of Saturn’s other moons. The moon Mimas, whose Herschel Crater makes
         it look like the Death Star from "Star Wars," was thought to be an old, dead world,
@@ -1619,6 +1619,45 @@
         global cooperation – one that enables a multinational partnership and advances shared goals
         in space exploration.
     </string>
+    <!-- neptune moon triton information -->
+    <string name="neptune_moon_triton">Triton</string>
+    <string name="neptune_moon_triton_text_box_1">
+        Triton is the largest of Neptunes 13 moons. It is unusual because it is the only large moon
+        in our solar system that orbits in the opposite direction of its planets rotation―a
+        retrograde orbit.
+        Scientists think Triton is a Kuiper Belt Object captured by Neptunes gravity millions of
+        years ago. It shares many similarities with Pluto, the best known world of the Kuiper Belt.
+        Like our own moon, Triton is locked in synchronous rotation with Neptune―one side faces the
+        planet at all times. But because of its unusual orbital inclination both polar regions take
+        turns facing the Sun.
+    </string>
+    <string name="neptune_moon_triton_text_box_2">Size and diameter</string>
+    <string name="neptune_moon_triton_text_box_3">
+        Triton has a diameter of 1,680 miles (2,700 kilometers). Spacecraft images show the moon
+        has a sparsely cratered surface with smooth volcanic plains, mounds and round pits formed by
+        icy lava flows. Triton consists of a crust of frozen nitrogen over an icy mantle believed to
+        cover a core of rock and metal. Triton has a density about twice that of water. This is a
+        higher density than that measured for almost any other satellite of an outer planet. Europa
+        and Io have higher densities. This implies that Triton contains more rock in its interior
+        than the icy satellites of Saturn and Uranus.
+    </string>
+    <string name="neptune_moon_triton_text_box_4">Atmosphere</string>
+    <string name="neptune_moon_triton_text_box_5">
+        Tritons thin atmosphere is composed mainly of nitrogen with small amounts of methane. This
+        atmosphere most likely originates from Tritons volcanic activity, which is driven by seasonal
+        heating by the Sun. Triton, Io and Venus are the only bodies in the solar system besides
+        Earth that are known to be volcanically active at the present time.
+        Triton is one of the coolest objects in our solar system. It is so cold that most of Tritons
+        nitrogen is condensed as frost, giving its surface an icy sheen that reflects 70 percent of
+        the sunlight that hits it.
+    </string>
+    <string name="neptune_moon_triton_text_box_6">How Triton Got its Name</string>
+    <string name="neptune_moon_triton_text_box_7">
+        Triton is named after the son of Poseidon (the Greek god comparable to the Roman Neptune).
+        Until the discovery of the second moon Nereid in 1949, Triton was commonly known as simply
+        /"the satellite of Neptune./"
+    </string>
+
     <string name="website">you can find more at NASA home page https://solarsystem.nasa.gov/planets/overview/</string>
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
